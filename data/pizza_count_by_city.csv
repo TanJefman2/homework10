@@ -1,0 +1,259 @@
+city,province,restaurant_count,avg_pizza_price,avg_min_spend
+Madison Heights,Michigan,1,5.99,25.0
+Grand Rapids,Michigan,1,12.25,25.0
+New Orleans,Louisiana,3,14.3,25.0
+New York,New York,22,17.5,23.73
+Arlington,Texas,4,13.11,25.0
+Tucson,Arizona,4,9.81,25.0
+Warminster,Pennsylvania,1,9.4,25.0
+Paradise Valley,Arizona,1,15.95,25.0
+Greensboro,North Carolina,1,8.49,25.0
+Orlando,Florida,2,9.97,25.0
+Woodside,New York,1,18.08,25.0
+Indianapolis,Indiana,6,8.26,25.0
+El Segundo,California,2,7.88,25.0
+Alamosa,Colorado,1,9.99,25.0
+New Baltimore,Michigan,1,7.33,25.0
+Baltimore,Maryland,2,9.62,25.0
+Portsmouth,Virginia,1,11.66,25.0
+Evansville,Indiana,1,3.37,25.0
+Scarsdale,New York,1,13.24,25.0
+Tempe,Arizona,1,7.99,25.0
+San Francisco,California,8,18.24,22.12
+San Diego,California,3,9.26,25.0
+San Antonio,Texas,4,11.36,32.5
+Austin,Texas,5,11.53,25.0
+Pompano Beach,Florida,1,13.95,25.0
+Flowery Branch,Georgia,1,8.99,25.0
+Albuquerque,New Mexico,1,9.0,25.0
+Jensen Beach,Florida,1,15.0,25.0
+Monroe,New York,1,5.95,25.0
+Little Neck,New York,1,12.0,25.0
+Lincoln,Nebraska,1,3.49,25.0
+Eden Prairie,Minnesota,1,3.49,25.0
+San Bruno,California,1,18.4,25.0
+Seaford,New York,1,5.0,25.0
+Dallas,Texas,5,13.17,25.0
+Memphis,Tennessee,1,7.08,25.0
+Miami,Florida,2,12.77,32.5
+Bothell,Washington,1,4.75,25.0
+Atlanta,Georgia,5,13.98,18.4
+Drexel Hill,Pennsylvania,1,8.97,25.0
+Fort Lauderdale,Florida,2,15.42,25.0
+Middle Village,New York,1,12.78,25.0
+Tulsa,Oklahoma,2,16.13,25.0
+Saint Paul,Minnesota,3,12.57,25.0
+Thornwood,New York,1,9.45,25.0
+Gainesville,Florida,1,19.15,25.0
+Spring,Texas,2,8.25,25.0
+Ashland,Oregon,1,11.5,25.0
+Salisbury,Maryland,1,8.0,25.0
+Petersburg,Virginia,1,12.0,25.0
+Costa Mesa,California,1,11.0,25.0
+Wylie,Texas,1,5.99,25.0
+Thousand Oaks,California,2,19.33,25.0
+Philadelphia,Pennsylvania,2,5.88,25.0
+Oxon Hill,Maryland,1,10.22,25.0
+Knoxville,Tennessee,1,9.62,25.0
+Des Plaines,Illinois,1,11.5,25.0
+Evergreen Park,Illinois,2,5.82,25.0
+Massapequa,New York,1,14.98,25.0
+Troy,New York,1,8.0,25.0
+Brooklyn,New York,9,16.91,27.78
+Garden City,New York,1,10.75,25.0
+Las Vegas,Nevada,1,9.28,25.0
+Gilbert,Arizona,2,11.49,25.0
+Amityville,New York,1,17.92,25.0
+Portland,Oregon,2,25.33,32.5
+Ithaca,New York,1,3.46,25.0
+Sacramento,California,2,13.48,25.0
+Columbus,Ohio,2,15.59,25.0
+Farmingdale,New York,2,14.09,25.0
+Irvine,California,1,2.99,25.0
+Louisville,Kentucky,1,18.65,25.0
+Charlottesville,Virginia,1,5.45,25.0
+Forest Hills,New York,1,15.0,25.0
+Littleton,Colorado,1,5.75,25.0
+Lenexa,Kansas,1,9.75,25.0
+Mesa,Arizona,3,9.65,25.0
+Kansas City,Missouri,2,17.2,25.0
+Los Angeles,California,7,34.33,25.0
+Alexandria,Virginia,1,9.49,25.0
+Seattle,Washington,8,17.52,16.0
+Marietta,Georgia,3,9.43,25.0
+Charlotte,North Carolina,8,9.88,25.0
+Houston,Texas,4,8.78,25.0
+Charleston,West Virginia,1,7.67,25.0
+Omaha,Nebraska,2,17.86,25.0
+Davidson,North Carolina,1,14.45,25.0
+Dayton,Ohio,1,9.0,25.0
+Hermitage,Tennessee,1,11.74,25.0
+Bucyrus,Ohio,1,7.47,25.0
+Burlington,North Carolina,1,4.95,25.0
+Horsham,Pennsylvania,1,19.75,25.0
+Hillsboro,Oregon,1,5.0,25.0
+Mountain View,California,1,6.74,25.0
+Eugene,Oregon,2,18.64,32.5
+Hudson,New York,1,7.57,25.0
+Miami Beach,Florida,3,14.09,25.0
+Bettendorf,Iowa,1,19.5,50.0
+Denver,Colorado,4,7.91,19.0
+Biloxi,Mississippi,1,8.0,25.0
+South Bend,Indiana,3,15.04,17.67
+Newton,North Carolina,1,7.99,25.0
+Kingston,New York,1,11.0,25.0
+Birmingham,Alabama,1,4.25,25.0
+Bethpage,New York,1,2.33,25.0
+Ridgewood,New York,2,14.85,25.0
+Santa Monica,California,1,17.09,25.0
+Oneonta,New York,1,21.0,25.0
+Park City,Utah,1,3.0,25.0
+Santa Ana,California,1,118.99,25.0
+Burlingame,California,1,8.95,25.0
+Lone Tree,Colorado,1,14.79,25.0
+Champaign,Illinois,1,11.99,25.0
+Rohnert Park,California,1,24.77,25.0
+Oakland,California,2,20.02,25.0
+Canoga Park,California,1,19.46,25.0
+Manteca,California,1,13.99,25.0
+Lombard,Illinois,2,8.0,25.0
+Hamtramck,Michigan,1,8.49,25.0
+Coeur d'Alene,Idaho,1,10.5,25.0
+Ventura,California,1,9.95,25.0
+Auburn,California,1,15.0,25.0
+Oceanside,California,1,7.66,25.0
+Oshkosh,Wisconsin,1,9.95,25.0
+Jacksonville,Florida,2,13.62,13.5
+Woodbridge,Virginia,1,5.95,25.0
+Potomac,Maryland,2,11.5,25.0
+Bronx,New York,2,16.88,25.0
+Salt Lake City,Utah,3,12.17,25.0
+Hershey,Pennsylvania,1,12.0,25.0
+Bethel,Connecticut,1,11.45,25.0
+Orange,California,1,11.82,25.0
+Chicago,Illinois,8,16.17,26.88
+Sunnyvale,California,1,13.5,25.0
+Americus,Georgia,1,8.78,25.0
+Encino,California,1,10.49,25.0
+El Cajon,California,1,6.95,25.0
+Macomb,Michigan,1,5.0,25.0
+Durham,North Carolina,2,9.62,25.0
+Wood Dale,Illinois,1,14.35,25.0
+Lynnwood,Washington,1,14.99,25.0
+Santa Barbara,California,1,10.16,25.0
+Manhattan Beach,California,1,17.5,25.0
+Peoria,Arizona,2,17.25,32.5
+Saint Louis,Missouri,3,18.12,25.0
+Lakewood,California,1,18.81,25.0
+Wilmington,North Carolina,1,18.99,25.0
+Scranton,Pennsylvania,1,10.6,25.0
+Newberg,Oregon,1,15.05,25.0
+Katy,Texas,1,10.0,25.0
+Marion,Iowa,1,2.5,25.0
+Sugar Land,Texas,1,15.0,25.0
+Palo Alto,California,1,68.49,25.0
+Reading,Pennsylvania,1,18.95,25.0
+Cedar Park,Texas,1,15.99,25.0
+Buffalo,New York,1,14.28,25.0
+Evanston,Illinois,2,13.61,25.0
+Spokane,Washington,1,9.88,25.0
+Pleasanton,California,1,21.64,25.0
+Columbia,Missouri,2,9.88,25.0
+Cypress,Texas,1,9.67,25.0
+Long Beach,California,2,8.96,25.0
+Seymour,Indiana,1,5.99,25.0
+Boulder,Colorado,1,13.42,25.0
+Orange Park,Florida,1,6.99,25.0
+Canyon Country,California,1,9.22,25.0
+Cleveland,Ohio,3,12.37,25.0
+Ypsilanti,Michigan,1,8.18,25.0
+Milwaukee,Wisconsin,2,12.69,25.0
+Yonkers,New York,2,14.58,25.0
+Toledo,Ohio,2,10.91,25.0
+Angola,Indiana,1,7.99,25.0
+Saratoga Springs,New York,1,8.33,5.0
+Roseville,California,1,8.72,25.0
+Newport Beach,California,1,42.41,25.0
+Yelm,Washington,1,13.5,25.0
+Fayetteville,West Virginia,1,10.0,25.0
+Huntington,Indiana,1,6.56,25.0
+Phoenix,Arizona,3,10.52,25.0
+Rochester,New York,1,14.83,25.0
+Pittsburgh,Pennsylvania,1,10.25,25.0
+Scottsdale,Arizona,2,11.88,25.0
+Sioux Falls,South Dakota,1,4.75,25.0
+Kingwood,Texas,1,7.12,25.0
+Cincinnati,Ohio,1,7.49,25.0
+Appleton,Wisconsin,1,22.75,25.0
+Frisco,Texas,1,14.09,25.0
+Jericho,New York,1,7.72,25.0
+Albany,New York,2,13.95,25.0
+Latrobe,Pennsylvania,1,14.57,25.0
+Raleigh,North Carolina,1,14.77,25.0
+North Bend,Ohio,1,8.39,25.0
+Suwanee,Georgia,1,5.5,25.0
+Bentonville,Arkansas,1,11.6,25.0
+Lawrenceville,Georgia,1,7.93,25.0
+Arlington Heights,Illinois,1,13.57,25.0
+Boca Raton,Florida,2,24.41,25.0
+York,Pennsylvania,1,5.08,25.0
+West Babylon,New York,1,16.04,25.0
+Casselberry,Florida,1,13.28,25.0
+Jupiter,Florida,1,17.95,25.0
+Bristow,Virginia,1,9.75,25.0
+Black Mountain,North Carolina,1,7.53,25.0
+Akron,Ohio,1,10.0,25.0
+Fairless Hills,Pennsylvania,1,10.3,25.0
+Central Valley,New York,1,10.95,25.0
+Cape Coral,Florida,1,18.0,25.0
+Ocala,Florida,1,7.62,25.0
+Sykesville,Maryland,1,19.45,25.0
+Sebastian,Florida,1,10.1,25.0
+DeLand,Florida,1,10.59,25.0
+McKinney,Texas,1,8.74,25.0
+Orland Park,Illinois,1,3.95,25.0
+Port Chester,New York,1,9.95,25.0
+Valhalla,New York,1,15.5,25.0
+Carmel,Indiana,1,10.9,25.0
+Virginia Beach,Virginia,2,9.45,25.0
+Kissimmee,Florida,1,6.24,25.0
+Caledonia,Michigan,1,8.95,25.0
+Glendale,Arizona,3,6.58,25.0
+Ardmore,Pennsylvania,1,9.0,25.0
+Northville,Michigan,1,8.99,25.0
+Armonk,New York,1,14.95,25.0
+Campbell,California,1,10.95,25.0
+Herndon,Virginia,1,13.45,25.0
+Minneapolis,Minnesota,2,10.22,25.0
+Altoona,Iowa,1,5.95,25.0
+Kennesaw,Georgia,1,5.95,25.0
+Northbrook,Illinois,1,2.75,25.0
+Clermont,Florida,1,10.14,25.0
+Doylestown,Pennsylvania,1,6.99,25.0
+Garden Grove,California,1,8.99,25.0
+Phoenixville,Pennsylvania,1,8.99,25.0
+Springfield,Missouri,1,6.0,25.0
+Tacoma,Washington,1,15.76,25.0
+Chico,California,1,2.0,25.0
+Mesquite,Texas,1,10.24,25.0
+Decatur,Georgia,1,0.99,25.0
+Frankfort,Illinois,1,17.95,25.0
+Lafayette,Colorado,1,8.75,25.0
+Hollywood,Florida,1,16.05,25.0
+Alpharetta,Georgia,1,10.5,25.0
+Fort Worth,Texas,1,5.99,25.0
+Morton Grove,Illinois,1,4.5,25.0
+Aberdeen,Maryland,1,21.99,25.0
+South Elgin,Illinois,1,3.95,25.0
+Delray Beach,Florida,1,16.0,25.0
+Glen Cove,New York,1,16.95,25.0
+Tallahassee,Florida,1,6.34,25.0
+Erie,Pennsylvania,1,1.59,25.0
+Huntington Beach,California,1,7.88,25.0
+Greenville,South Carolina,1,15.08,25.0
+Prospect,Kentucky,1,3.59,25.0
+Oklahoma City,Oklahoma,1,13.5,25.0
+Clinton Township,Michigan,1,3.34,25.0
+Chandler,Arizona,1,20.49,25.0
+Fontana,California,1,15.99,25.0
+Richmond,Virginia,1,13.0,25.0

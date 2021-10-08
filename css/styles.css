@@ -1,0 +1,14 @@
+#symbol_map {
+	left: 100px;
+	right: 100px;
+	width: 100%;
+	/*height: 1000px;
+	width: 800px;*/
+}
+
+#bubble_chart {
+	top: 100px;
+	width: 100%;
+	/*height: 1000px;
+	width: 800px;*/
+}
