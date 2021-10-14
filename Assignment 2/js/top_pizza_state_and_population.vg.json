@@ -1,0 +1,35 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 1500,
+    "height": 250,
+    "data": {
+        "url": "../data/pizza_count_by_state.csv"
+    },
+    "config": {"background": "aliceblue"},
+    "layer": [{
+        "mark": "bar",
+        "encoding": {
+            "x": {
+                "field": "province",
+                "type": "nominal",
+                "axis": {
+                    "labelAngle": -45
+                },
+                "title": "States (Sorted by Population)",
+                "sort": ["California","Texas","New York","Florida","Illinois","Pennsylvania","Ohio","Michigan","Georgia","North Carolina","New Jersey","Virginia","Washington","Massachusetts","Indiana","Arizona","Tennessee","Missouri","Maryland","Wisconsin","Minnesota","Colorado","Alabama","South Carolina","Louisiana","Kentucky","Oregon","Oklahoma","Connecticut","Iowa","Mississippi","Arkansas","Kansas","Utah","Nevada","New Mexico","West Virginia","Nebraska","Idaho","Hawaii","Maine","New Hampshire","Rhode Island","Montana","Delaware","South Dakota","Alaska","North Dakota","Vermont","District of Columbia","Wyoming"]
+
+            },
+            "y": {
+                "field": "restaurant_count",
+                "type": "quantitative",
+                "title": "Number of Pizza Shops"
+            },
+            "tooltip": [
+              {"field": "province", "type": "nominal", "title": "State"},
+              {"field": "restaurant_count", "type": "quantitative", "title": "Number of Pizzas Shop"}
+            ]
+
+        }
+    }
+]
+}

@@ -1,0 +1,39 @@
+province,restaurant_count,avg_pizza_price,avg_min_spend
+Michigan,10,8.14,22.6
+Louisiana,3,14.3,25.0
+New York,68,15.02,24.66
+Texas,30,10.77,26.0
+Arizona,22,9.68,25.68
+Pennsylvania,16,10.35,25.0
+North Carolina,17,10.64,25.0
+Florida,28,15.98,24.71
+Indiana,14,11.49,23.43
+California,58,21.1,24.6
+Colorado,9,10.58,22.33
+Maryland,8,10.67,25.0
+Virginia,14,12.51,23.29
+Georgia,16,11.76,22.94
+New Mexico,1,9.0,25.0
+Nebraska,3,14.98,25.0
+Minnesota,6,11.33,25.0
+Tennessee,3,9.2,25.0
+Washington,13,17.02,19.46
+Oklahoma,3,15.47,25.0
+Oregon,7,17.7,29.29
+Illinois,23,13.85,25.65
+Nevada,1,9.28,25.0
+Ohio,12,11.89,25.0
+Kentucky,2,16.14,25.0
+Kansas,1,9.75,25.0
+Missouri,7,17.3,25.0
+West Virginia,2,8.83,25.0
+Iowa,3,11.86,33.33
+Mississippi,1,8.0,25.0
+Alabama,1,4.25,25.0
+Utah,4,10.86,25.0
+Idaho,1,10.5,25.0
+Wisconsin,4,13.74,25.0
+Connecticut,1,11.45,25.0
+South Dakota,1,4.75,25.0
+Arkansas,1,11.6,25.0
+South Carolina,2,14.2,25.0

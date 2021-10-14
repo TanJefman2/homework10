@@ -1,0 +1,30 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 400,
+    "height": 450,
+    "data": {
+        "url": "../data/top_pizza_shop.csv"
+    },
+    "mark": "bar",
+    "encoding": {
+        "x": {
+            "field": "restaurant",
+            "type": "nominal",
+            "axis": {
+                "labelAngle": -45
+            },
+            "sort": ["B", "A", "C"],
+            "title": "Pizza Shops"
+        },
+        "y": {
+            "field": "count",
+            "type": "quantitative",
+            "title": "Number of Pizza Shops"
+        },
+        "tooltip": [
+          {"field": "restaurant", "type": "nominal", "title": "Pizza Shop"},
+          {"field": "count", "type": "quantitative", "title": "Number of Pizzas Shop"}
+        ]
+        
+    }
+}

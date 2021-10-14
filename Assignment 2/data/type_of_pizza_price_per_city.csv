@@ -1,0 +1,2642 @@
+city,province,pizza_type,price
+Sherwood,Arkansas,cheese,7.98
+Grand Rapids,Michigan,cheese,7.43
+Grand Rapids,Michigan,pepperoni,7.43
+Glendora,California,cheese,22
+Glendora,California,cheese,11.5
+Raleigh,North Carolina,cheese,11.99
+New Orleans,Louisiana,cheese,12.25
+New Orleans,Louisiana,buffalo,13.5
+New York,New York,buffalo,19.25
+New York,New York,margherita,16.95
+New York,New York,hawaiian,12.5
+New York,New York,meat,12.5
+New York,New York,cheese,13.75
+New York,New York,veggie,18.75
+Canton,Michigan,margherita,7.99
+Milpitas,California,cheese,9.2
+Poughkeepsie,New York,meat,4.99
+Poughkeepsie,New York,hawaiian,18.99
+Poughkeepsie,New York,cheese,18.99
+Poughkeepsie,New York,cheese,10.99
+Poughkeepsie,New York,cheese,1.99
+Arlington,Texas,cheese,6.95
+Tucson,Arizona,veggie,11.99
+Tucson,Arizona,cheese,11.99
+Tucson,Arizona,cheese,8.49
+Tucson,Arizona,cheese,5.99
+Washington Crossing,Pennsylvania,buffalo,21
+Traverse City,Michigan,cheese,10.49
+Traverse City,Michigan,cheese,4.85
+Warminster,Pennsylvania,cheese,12.99
+Warminster,Pennsylvania,cheese,9.25
+Warminster,Pennsylvania,cheese,5.95
+Buffalo,New York,cheese,22.49
+Buffalo,New York,cheese,22.49
+Buffalo,New York,cheese,4.99
+Buffalo,New York,cheese,15.99
+Buffalo,New York,cheese,17.99
+Glendale,Arizona,cheese,4.29
+North Las Vegas,Nevada,cheese,11.99
+North Las Vegas,Nevada,cheese,49.99
+North Las Vegas,Nevada,cheese,9.99
+Alexandria,Louisiana,cheese,5
+Greensboro,North Carolina,meat,9.99
+Phoenix,Arizona,meat,5.5
+Phoenix,Arizona,pepperoni,4.25
+Iowa City,Iowa,cheese,3
+Iowa City,Iowa,pepperoni,13
+Iowa City,Iowa,hawaiian,11.5
+Charlotte,North Carolina,meat,13.95
+Woodside,New York,cheese,15.75
+New York,New York,cheese,2.5
+New York,New York,cheese,16
+Fountain Hills,Arizona,pepperoni,2.5
+Alameda,California,veggie,22
+Alameda,California,veggie,20
+Santa Fe,New Mexico,margherita,6.25
+Santa Fe,New Mexico,margherita,6.25
+Lafayette,Louisiana,cheese,5.99
+Lafayette,Louisiana,cheese,9.99
+El Segundo,California,cheese,7.99
+Midlothian,Virginia,cheese,2.15
+Alamosa,Colorado,cheese,9.99
+Brooklyn,New York,cheese,14
+Brooklyn,New York,cheese,2.75
+Brooklyn,New York,meat,22
+Brooklyn,New York,cheese,13
+Springfield,Oregon,bbq chicken,17.29
+Springfield,Oregon,meat,16.79
+Springfield,Oregon,margherita,17.29
+Springfield,Oregon,margherita,14.29
+Springfield,Oregon,meat,17.49
+Springfield,Oregon,pepperoni,14.99
+Raleigh,North Carolina,cheese,7.99
+Kent,Washington,pepperoni,5.5
+Portsmouth,Virginia,bbq chicken,11.99
+Portsmouth,Virginia,hawaiian,11.99
+Iowa City,Iowa,cheese,7.5
+Evansville,Indiana,cheese,1.25
+Evansville,Indiana,veggie,9.99
+Evansville,Indiana,meat,9.99
+Evansville,Indiana,bbq chicken,9.99
+Scarsdale,New York,pepperoni,8.69
+Elkton,Maryland,buffalo,15.99
+Elkton,Maryland,cheese,14.99
+Essex,Maryland,cheese,12.99
+Essex,Maryland,cheese,7.99
+Brooklyn,New York,hawaiian,25
+Brooklyn,New York,pepperoni,18
+Brooklyn,New York,bbq chicken,25
+San Francisco,California,cheese,12.99
+San Francisco,California,cheese,20.99
+San Francisco,California,cheese,15.99
+San Francisco,California,cheese,18.99
+San Francisco,California,cheese,9.99
+Savannah,Georgia,cheese,13.95
+Savannah,Georgia,cheese,16.95
+Savannah,Georgia,veggie,19.95
+Savannah,Georgia,hawaiian,17.95
+Gulfport,Mississippi,meat,14.75
+Lewes,Delaware,cheese,5.99
+Lewes,Delaware,pepperoni,5.99
+Mount Pleasant,Michigan,cheese,14.34
+Mount Pleasant,Michigan,cheese,6.27
+Antioch,California,veggie,0
+Waterloo,Illinois,cheese,6.99
+Noblesville,Indiana,meat,0
+San Diego,California,cheese,8.5
+San Diego,California,bbq chicken,8.5
+Charleston,South Carolina,cheese,6
+Charleston,South Carolina,veggie,15.99
+Reeds Spring,Missouri,cheese,8.5
+Brooklyn,New York,bbq chicken,11
+Davenport,Florida,cheese,6.99
+Westminster,California,cheese,8.99
+Westminster,California,cheese,29.99
+Columbus,Ohio,buffalo,15
+Philadelphia,Pennsylvania,meat,21.95
+Philadelphia,Pennsylvania,buffalo,31.95
+Philadelphia,Pennsylvania,buffalo,20.95
+Pompano Beach,Florida,meat,13.95
+Pompano Beach,Florida,veggie,13.95
+Chicago,Illinois,margherita,18.25
+Fresh Meadows,New York,meat,22
+Sierra Madre,California,cheese,11.2
+Sierra Madre,California,veggie,15.4
+Oakland,California,veggie,5.5
+Oakland,California,hawaiian,6.25
+Oakland,California,bbq chicken,6
+New York,New York,meat,8
+New York,New York,cheese,6.5
+New York,New York,buffalo,8.5
+New York,New York,cheese,7.5
+New York,New York,hawaiian,9
+New York,New York,cheese,8
+Brentwood,Tennessee,veggie,13
+Ridgewood,New York,pepperoni,13.75
+Ridgewood,New York,cheese,11.75
+Ridgewood,New York,buffalo,19
+Leola,Pennsylvania,hawaiian,14
+Leola,Pennsylvania,buffalo,13.5
+Leola,Pennsylvania,veggie,13.5
+Leola,Pennsylvania,cheese,8.95
+Leola,Pennsylvania,cheese,7.5
+Leola,Pennsylvania,meat,10.5
+Leola,Pennsylvania,buffalo,10.5
+San Antonio,Texas,pepperoni,19.99
+San Antonio,Texas,cheese,9.99
+San Antonio,Texas,meat,13.99
+San Antonio,Texas,cheese,3.49
+San Antonio,Texas,meat,20.99
+Midvale,Utah,pepperoni,5.95
+Avondale,Pennsylvania,cheese,8.95
+Enola,Pennsylvania,cheese,6.5
+Orlando,Florida,cheese,8.95
+Cedar Park,Texas,cheese,17.99
+Cedar Park,Texas,hawaiian,17.99
+Cedar Park,Texas,meat,18.99
+Milwaukee,Wisconsin,veggie,13.79
+Chesterfield,Missouri,margherita,15
+Chesterfield,Missouri,meat,17
+Chesterfield,Missouri,veggie,17
+Chesterfield,Missouri,buffalo,16
+Chesterfield,Missouri,cheese,30
+Chesterfield,Missouri,hawaiian,15
+Philadelphia,Pennsylvania,cheese,24.95
+New York,New York,meat,4
+Saint Charles,Illinois,cheese,8.45
+Saint Charles,Illinois,pepperoni,8.45
+Sedona,Arizona,cheese,10.5
+Hemet,California,cheese,12
+Wichita,Kansas,cheese,2.59
+Wichita,Kansas,cheese,3.29
+Wichita,Kansas,buffalo,4.89
+Wichita,Kansas,veggie,3.85
+Wichita,Kansas,meat,4.39
+Seaford,New York,cheese,5
+Dallas,Texas,veggie,13.5
+Crown Point,Indiana,cheese,7
+Orlando,Florida,cheese,7.95
+San Diego,California,cheese,17.99
+San Diego,California,cheese,19.99
+New York,New York,margherita,13
+Bothell,Washington,cheese,5
+Atlanta,Georgia,veggie,23.5
+Atlanta,Georgia,veggie,17.5
+Atlanta,Georgia,hawaiian,15.5
+Atlanta,Georgia,cheese,21.95
+Atlanta,Georgia,margherita,9.5
+Atlanta,Georgia,buffalo,22.95
+Atlanta,Georgia,veggie,4.25
+Atlanta,Georgia,buffalo,19.5
+Atlanta,Georgia,buffalo,17.5
+Atlanta,Georgia,hawaiian,3.55
+Atlanta,Georgia,margherita,22.5
+Atlanta,Georgia,hawaiian,17.75
+Atlanta,Georgia,meat,18.5
+Atlanta,Georgia,veggie,10.95
+Atlanta,Georgia,cheese,8.75
+Atlanta,Georgia,veggie,9.95
+Atlanta,Georgia,meat,10.5
+Astoria,New York,cheese,12
+Drexel Hill,Pennsylvania,bbq chicken,9.95
+Drexel Hill,Pennsylvania,hawaiian,9.95
+Drexel Hill,Pennsylvania,cheese,9.95
+Drexel Hill,Pennsylvania,margherita,8.25
+Drexel Hill,Pennsylvania,cheese,6.25
+Fort Lauderdale,Florida,margherita,15.95
+Baltimore,Maryland,meat,14.5
+Baltimore,Maryland,veggie,15
+Baltimore,Maryland,meat,14.5
+Baltimore,Maryland,veggie,15
+Middle Village,New York,margherita,13
+Tulsa,Oklahoma,bbq chicken,15.95
+Tulsa,Oklahoma,bbq chicken,11.95
+Ravenna,Ohio,veggie,8.5
+Northampton,Pennsylvania,margherita,8.45
+Northampton,Pennsylvania,buffalo,8.45
+Northampton,Pennsylvania,buffalo,8.45
+Millwood,New York,cheese,13.95
+Philadelphia,Pennsylvania,meat,9.99
+Philadelphia,Pennsylvania,margherita,8.99
+Thornwood,New York,hawaiian,9.75
+Thornwood,New York,hawaiian,9.75
+Hudson,Wisconsin,cheese,8.5
+Flushing,New York,cheese,19
+Flushing,New York,cheese,20
+Flushing,New York,hawaiian,19
+Flushing,New York,cheese,20
+Flushing,New York,bbq chicken,19
+Gainesville,Florida,cheese,14.95
+Gainesville,Florida,cheese,11.45
+Gainesville,Florida,cheese,17.35
+Pittsburgh,Pennsylvania,meat,10.75
+Pittsburgh,Pennsylvania,veggie,10.75
+Pittsburgh,Pennsylvania,hawaiian,9.5
+Pittsburgh,Pennsylvania,bbq chicken,10.75
+Pittsburgh,Pennsylvania,veggie,9.5
+Pittsburgh,Pennsylvania,buffalo,10.75
+Pittsburgh,Pennsylvania,hawaiian,10.75
+Pittsburgh,Pennsylvania,buffalo,9.5
+Palm Desert,California,margherita,16.95
+Palm Desert,California,margherita,15.95
+Palm Desert,California,bbq chicken,15.95
+New York,New York,cheese,16
+New York,New York,cheese,10.5
+Redondo Beach,California,cheese,2.5
+Redondo Beach,California,cheese,13.75
+Redondo Beach,California,meat,14.5
+Redondo Beach,California,hawaiian,14
+Alpharetta,Georgia,cheese,14.45
+Tarrytown,New York,cheese,13.95
+East Lansing,Michigan,cheese,2.4
+East Lansing,Michigan,meat,17.49
+East Lansing,Michigan,meat,18.65
+East Lansing,Michigan,cheese,11.49
+East Lansing,Michigan,pepperoni,2.49
+East Lansing,Michigan,cheese,11.99
+Cleveland,Tennessee,cheese,14.26
+Cleveland,Tennessee,cheese,21.51
+Granada Hills,California,veggie,17.99
+Granada Hills,California,hawaiian,7.99
+Granada Hills,California,bbq chicken,11.99
+Granada Hills,California,meat,11.99
+Granada Hills,California,bbq chicken,11.99
+Kingston,New York,cheese,11
+Kingston,New York,cheese,5.5
+Petersburg,Virginia,margherita,10.25
+Miami Beach,Florida,cheese,10
+Petaluma,California,cheese,11.9
+Durham,North Carolina,cheese,2.25
+Durham,North Carolina,bbq chicken,14.89
+San Marcos,California,cheese,6.5
+Saint Paul,Minnesota,pepperoni,6.75
+Saint Paul,Minnesota,cheese,19.5
+Saint Paul,Minnesota,cheese,19.5
+Bakerstown,Pennsylvania,margherita,10
+Bakerstown,Pennsylvania,cheese,8
+Bakerstown,Pennsylvania,margherita,14
+Bakerstown,Pennsylvania,margherita,14
+Bakerstown,Pennsylvania,cheese,10
+Wylie,Texas,cheese,2.99
+Mechanicsburg,Pennsylvania,cheese,1.98
+Shrub Oak,New York,cheese,14
+Seal Beach,California,cheese,2.75
+New York,New York,cheese,2.76
+New York,New York,pepperoni,3.9
+New York,New York,pepperoni,3.44
+New York,New York,meat,4.13
+New York,New York,veggie,3.9
+Bayside,New York,buffalo,18.95
+Chicago,Illinois,cheese,3.49
+Philadelphia,Pennsylvania,pepperoni,5.75
+Smithtown,New York,cheese,11.25
+Smithtown,New York,cheese,14
+Brooklyn,New York,cheese,22.99
+Brooklyn,New York,cheese,14.99
+Brooklyn,New York,cheese,2.25
+Jacksonville,Florida,cheese,1.75
+Jacksonville,Florida,cheese,13.95
+Jacksonville,Florida,bbq chicken,13.95
+Sedona,Arizona,pepperoni,5.95
+Sedona,Arizona,pepperoni,14.9
+Kalamazoo,Michigan,cheese,17.25
+Charleston,South Carolina,cheese,15.99
+Charleston,South Carolina,meat,14.99
+Charleston,South Carolina,veggie,14.99
+Charleston,South Carolina,meat,14.99
+Charleston,South Carolina,veggie,18.99
+Lincoln,Nebraska,cheese,6.25
+Buffalo,New York,veggie,12.1
+Aurora,Colorado,cheese,2.75
+Fayetteville,Arkansas,veggie,12.49
+New York,New York,cheese,2.75
+New York,New York,hawaiian,3
+New York,New York,pepperoni,2
+Jamaica,New York,bbq chicken,19
+Jamaica,New York,meat,19
+Jamaica,New York,margherita,14
+Port Jefferson,New York,cheese,19.95
+Port Jefferson,New York,hawaiian,17.95
+Port Jefferson,New York,cheese,13.25
+Port Jefferson,New York,meat,22.95
+Port Jefferson,New York,cheese,18.25
+Port Jefferson,New York,veggie,18.95
+Waukegan,Illinois,cheese,7.99
+Waukegan,Illinois,meat,17.99
+Waukegan,Illinois,cheese,7.99
+Suwanee,Georgia,pepperoni,9.99
+Oxon Hill,Maryland,veggie,10.5
+Oxon Hill,Maryland,hawaiian,9.95
+Knoxville,Tennessee,pepperoni,8.95
+Rockmart,Georgia,cheese,6.3
+Rockmart,Georgia,cheese,16.5
+Rockmart,Georgia,cheese,3.8
+Rockmart,Georgia,cheese,14.4
+Rockmart,Georgia,cheese,8.15
+Rockmart,Georgia,cheese,15.15
+Rockmart,Georgia,cheese,10.15
+Rockmart,Georgia,cheese,17.5
+Rockmart,Georgia,cheese,6.75
+Rockmart,Georgia,cheese,9.1
+Rockmart,Georgia,cheese,10.4
+Rockmart,Georgia,cheese,11.2
+New Berlin,Wisconsin,cheese,12.19
+Ridgewood,New York,hawaiian,16
+Decatur,Indiana,cheese,5.59
+Atlanta,Georgia,cheese,7.75
+Atlanta,Georgia,cheese,16.75
+Henrietta,New York,cheese,6.99
+Henrietta,New York,buffalo,11.99
+Henrietta,New York,hawaiian,11.99
+Henrietta,New York,meat,11.99
+Cortland,New York,cheese,18.98
+Endicott,New York,veggie,9.99
+Nyack,New York,margherita,13.5
+Kennewick,Washington,cheese,5
+Kennewick,Washington,cheese,9.95
+Mercer Island,Washington,hawaiian,8.45
+Mercer Island,Washington,pepperoni,8.45
+Mercer Island,Washington,veggie,8.45
+Mercer Island,Washington,bbq chicken,8.45
+Alexandria,Virginia,pepperoni,6.99
+Royal Oak,Michigan,cheese,7.99
+Troy,New York,cheese,8
+New York,New York,cheese,21.5
+Las Vegas,Nevada,margherita,6.5
+Las Vegas,Nevada,cheese,5.99
+Las Vegas,Nevada,cheese,6.5
+Philadelphia,Pennsylvania,cheese,13
+Philadelphia,Pennsylvania,cheese,24.5
+Orlando,Florida,cheese,9.95
+New York,New York,cheese,4.59
+New York,New York,pepperoni,4.59
+Ithaca,New York,buffalo,2.99
+Ithaca,New York,buffalo,2.99
+Ithaca,New York,cheese,1.99
+Ithaca,New York,bbq chicken,2.99
+Ithaca,New York,cheese,1.99
+Ithaca,New York,cheese,2.99
+Brooklyn,New York,margherita,18
+Brooklyn,New York,cheese,10
+Brooklyn,New York,buffalo,19
+New York,New York,cheese,13
+Austin,Texas,cheese,19.5
+Greensboro,North Carolina,cheese,4.95
+Greensboro,North Carolina,margherita,10.95
+Columbus,Ohio,hawaiian,18
+San Diego,California,cheese,8.99
+Philadelphia,Pennsylvania,margherita,13.45
+Philadelphia,Pennsylvania,buffalo,18
+Philadelphia,Pennsylvania,hawaiian,12.95
+Brooklyn,New York,cheese,12
+New Palestine,Indiana,pepperoni,1.99
+West Covina,California,cheese,8.95
+West Covina,California,cheese,5.95
+West Covina,California,cheese,8.95
+Virginia Beach,Virginia,cheese,8.99
+Franklin,Ohio,meat,5
+Franklin,Ohio,bbq chicken,4
+Horsham,Pennsylvania,cheese,13
+Horsham,Pennsylvania,veggie,10
+Horsham,Pennsylvania,hawaiian,9
+Bronx,New York,cheese,13.95
+Bronx,New York,hawaiian,3.95
+Louisville,Kentucky,buffalo,26.95
+Louisville,Kentucky,buffalo,22.95
+Louisville,Kentucky,buffalo,18.95
+Louisville,Kentucky,cheese,14.95
+Louisville,Kentucky,bbq chicken,14.95
+Louisville,Kentucky,cheese,11.95
+Louisville,Kentucky,buffalo,14.95
+Palmerton,Pennsylvania,buffalo,17
+Norco,California,hawaiian,13.99
+Norco,California,bbq chicken,13.99
+Norco,California,cheese,13.99
+Norco,California,cheese,11.99
+Norco,California,pepperoni,13.99
+Charlottesville,Virginia,cheese,4.95
+New Prague,Minnesota,buffalo,11
+Forest Hills,New York,meat,15
+Sarasota,Florida,cheese,8.49
+Littleton,Colorado,cheese,2.25
+Littleton,Colorado,cheese,2.25
+Durham,North Carolina,hawaiian,14.95
+Durham,North Carolina,meat,17.95
+Fort Lauderdale,Florida,veggie,14.25
+Fort Lauderdale,Florida,cheese,14.25
+Springfield,Virginia,veggie,13.5
+Springfield,Virginia,cheese,8.99
+Springfield,Virginia,pepperoni,8.95
+Springfield,Virginia,cheese,10.5
+Springfield,Virginia,veggie,10.5
+New Castle,Indiana,cheese,0
+New Castle,Indiana,meat,0
+Greencastle,Pennsylvania,cheese,13.99
+Greencastle,Pennsylvania,cheese,19.49
+Greencastle,Pennsylvania,hawaiian,13.65
+Greencastle,Pennsylvania,cheese,17.49
+Far Rockaway,New York,bbq chicken,17
+Port Richey,Florida,cheese,1
+Port Richey,Florida,veggie,12.99
+Port Richey,Florida,cheese,9.99
+Port Richey,Florida,bbq chicken,12.99
+Port Richey,Florida,buffalo,14.99
+Apopka,Florida,cheese,12.95
+Apopka,Florida,cheese,9.95
+Apopka,Florida,cheese,5.25
+Apopka,Florida,cheese,26
+Joshua Tree,California,meat,6.99
+Joshua Tree,California,hawaiian,6.99
+Joshua Tree,California,meat,6.99
+West Islip,New York,cheese,11
+West Islip,New York,buffalo,18
+New York,New York,cheese,20
+New York,New York,margherita,20.95
+New York,New York,cheese,2.75
+New York,New York,cheese,13.95
+Palm Bay,Florida,cheese,3.99
+Palm Bay,Florida,pepperoni,3.99
+Spokane,Washington,cheese,6
+Delray Beach,Florida,bbq chicken,11.99
+Delray Beach,Florida,margherita,8.99
+Delray Beach,Florida,hawaiian,10.99
+New Orleans,Louisiana,buffalo,13.5
+San Diego,California,cheese,19.5
+Valley Village,California,margherita,19
+New York,New York,meat,20
+Brooklyn,New York,veggie,27
+Seattle,Washington,cheese,17.95
+Seattle,Washington,cheese,7.95
+Winslow,Arizona,cheese,13.99
+Winslow,Arizona,bbq chicken,13.99
+Winslow,Arizona,buffalo,13.99
+Winslow,Arizona,bbq chicken,9.99
+Winslow,Arizona,buffalo,9.99
+Winslow,Arizona,cheese,9.99
+Winslow,Arizona,meat,9.99
+Winslow,Arizona,cheese,13.99
+Winslow,Arizona,meat,13.99
+Philadelphia,Pennsylvania,cheese,25
+Philadelphia,Pennsylvania,buffalo,12.99
+Houston,Texas,bbq chicken,8.99
+Houston,Texas,cheese,4.25
+Placentia,California,pepperoni,4.95
+Greensboro,North Carolina,cheese,7.99
+Greensboro,North Carolina,cheese,9.99
+Philadelphia,Pennsylvania,cheese,6.5
+Philadelphia,Pennsylvania,pepperoni,6.5
+Kaukauna,Wisconsin,margherita,15.99
+Kaukauna,Wisconsin,margherita,14.99
+Waldport,Oregon,cheese,19
+Waldport,Oregon,cheese,6
+Carlsbad,California,veggie,11.95
+Carlsbad,California,veggie,11.95
+Carlsbad,California,cheese,5.95
+Glenside,Pennsylvania,cheese,17.95
+Glenside,Pennsylvania,cheese,18.5
+Glenside,Pennsylvania,cheese,24.5
+Keller,Texas,cheese,9.99
+Keller,Texas,cheese,14.95
+Keller,Texas,hawaiian,14.95
+New Baltimore,Michigan,cheese,3.89
+New Baltimore,Michigan,cheese,3.69
+Corolla,North Carolina,meat,23
+Syracuse,New York,cheese,25
+Newark,Delaware,cheese,14.5
+Santa Fe,New Mexico,cheese,9.5
+Columbus,Ohio,bbq chicken,6
+Milwaukee,Wisconsin,cheese,1.69
+Englewood,Colorado,margherita,9.5
+Franklin,Indiana,cheese,8
+Greenville,South Carolina,hawaiian,12.19
+Greenville,South Carolina,cheese,7.99
+Greenville,South Carolina,cheese,12.15
+Greenville,South Carolina,cheese,12.19
+Vista,California,bbq chicken,21.35
+Seattle,Washington,pepperoni,21.95
+Seattle,Washington,cheese,14.25
+Seattle,Washington,cheese,24.95
+Seattle,Washington,pepperoni,17.5
+Seattle,Washington,cheese,18.5
+Seattle,Washington,pepperoni,13.95
+Seattle,Washington,pepperoni,16.5
+Seattle,Washington,cheese,23.95
+Seattle,Washington,pepperoni,18.95
+Seattle,Washington,pepperoni,13.95
+Seattle,Washington,pepperoni,12.95
+Seattle,Washington,pepperoni,13.5
+Seattle,Washington,pepperoni,13.25
+Seattle,Washington,pepperoni,18.25
+Seattle,Washington,pepperoni,17.5
+Seattle,Washington,pepperoni,22.95
+Seattle,Washington,pepperoni,20.95
+Seattle,Washington,pepperoni,22.95
+Seattle,Washington,pepperoni,22.95
+Seattle,Washington,pepperoni,21.95
+Woodland Hills,California,cheese,8.9
+Woodland Hills,California,cheese,12.55
+Woodland Hills,California,cheese,12.55
+Orland Park,Illinois,bbq chicken,12.75
+Brooklyn,New York,hawaiian,16
+Brooklyn,New York,pepperoni,16
+Brooklyn,New York,pepperoni,16
+Brooklyn,New York,meat,16
+Danville,California,cheese,21.99
+Arlington,Virginia,veggie,20.9
+Charlotte,North Carolina,hawaiian,7.5
+Charlotte,North Carolina,bbq chicken,8.99
+Harrisburg,Pennsylvania,meat,14.95
+Harrisburg,Pennsylvania,meat,17.4
+Philadelphia,Pennsylvania,cheese,2.35
+Philadelphia,Pennsylvania,hawaiian,16
+Philadelphia,Pennsylvania,cheese,24.99
+Philadelphia,Pennsylvania,hawaiian,12.95
+Philadelphia,Pennsylvania,bbq chicken,15.5
+Philadelphia,Pennsylvania,cheese,2.25
+Lakeville,New York,cheese,35.99
+Lakeville,New York,cheese,5.99
+Lakeville,New York,cheese,9.99
+Durham,North Carolina,cheese,9.99
+Durham,North Carolina,cheese,8.99
+Charlotte,North Carolina,hawaiian,11.26
+Charlotte,North Carolina,bbq chicken,11.26
+Charlotte,North Carolina,cheese,11
+Charlotte,North Carolina,cheese,7.99
+Charlotte,North Carolina,veggie,12.35
+West Chester,Pennsylvania,hawaiian,11.99
+West Chester,Pennsylvania,cheese,3.99
+Saint Charles,Missouri,cheese,10.25
+Buffalo,New York,veggie,5.89
+Reading,Pennsylvania,cheese,15.99
+Reading,Pennsylvania,cheese,8.5
+Reading,Pennsylvania,cheese,33.99
+Reading,Pennsylvania,cheese,14.99
+Reading,Pennsylvania,cheese,35.99
+Reading,Pennsylvania,cheese,7.99
+Charlotte,North Carolina,veggie,13
+Irwin,Pennsylvania,hawaiian,13.5
+Irwin,Pennsylvania,hawaiian,16.5
+Irwin,Pennsylvania,buffalo,11.5
+Louisville,Kentucky,meat,6.75
+Louisville,Kentucky,buffalo,6.75
+Okemos,Michigan,cheese,9
+Okemos,Michigan,cheese,3.5
+Ann Arbor,Michigan,veggie,13.99
+Ann Arbor,Michigan,margherita,13.99
+Ann Arbor,Michigan,hawaiian,13.99
+Ann Arbor,Michigan,buffalo,13.99
+Baltimore,Maryland,margherita,8.5
+Baltimore,Maryland,veggie,8.5
+Houston,Texas,cheese,7.5
+Elmont,New York,margherita,15
+Elmont,New York,hawaiian,16
+Southaven,Mississippi,bbq chicken,14.35
+Philadelphia,Pennsylvania,cheese,14.5
+Camp Hill,Pennsylvania,bbq chicken,15.5
+Camp Hill,Pennsylvania,cheese,16
+Camp Hill,Pennsylvania,bbq chicken,16.5
+Annandale,Virginia,cheese,14.99
+Horseheads,New York,cheese,16.67
+Exton,Pennsylvania,cheese,9.95
+Exton,Pennsylvania,meat,17.95
+Exton,Pennsylvania,meat,17.5
+Exton,Pennsylvania,hawaiian,12.95
+Brooklyn,New York,cheese,13.95
+Brooklyn,New York,margherita,17.95
+Albany,Oregon,cheese,27.55
+Albany,Oregon,bbq chicken,27.55
+Metairie,Louisiana,cheese,23.95
+West Des Moines,Iowa,cheese,10.25
+West Des Moines,Iowa,cheese,17.75
+West Des Moines,Iowa,cheese,11.7
+Ambler,Pennsylvania,cheese,7.99
+Louisville,Kentucky,meat,27.99
+Louisville,Kentucky,margherita,12.99
+Louisville,Kentucky,cheese,25.99
+Louisville,Kentucky,veggie,25.99
+Louisville,Kentucky,veggie,30.99
+Louisville,Kentucky,hawaiian,32.99
+Louisville,Kentucky,cheese,21.99
+Louisville,Kentucky,meat,34.99
+Louisville,Kentucky,meat,27.99
+Tonawanda,New York,buffalo,6.19
+Saint Charles,Missouri,pepperoni,4.99
+Narberth,Pennsylvania,cheese,1.65
+Syracuse,New York,cheese,7.39
+Syracuse,New York,cheese,15.99
+Syracuse,New York,cheese,29.99
+Pittsburgh,Pennsylvania,cheese,27.9
+Pittsburgh,Pennsylvania,veggie,35.34
+Pittsburgh,Pennsylvania,veggie,4.65
+Pittsburgh,Pennsylvania,pepperoni,35.34
+Pittsburgh,Pennsylvania,pepperoni,4.65
+Harrisburg,Pennsylvania,cheese,11.99
+Harrisburg,Pennsylvania,hawaiian,11.99
+Harrisburg,Pennsylvania,cheese,11.99
+Harrisburg,Pennsylvania,cheese,11.99
+Davidson,North Carolina,bbq chicken,13.45
+Raleigh,North Carolina,veggie,10.95
+Raleigh,North Carolina,cheese,7.5
+Raleigh,North Carolina,pepperoni,14.5
+Plano,Texas,cheese,7.99
+Plano,Texas,bbq chicken,10.99
+Plano,Texas,hawaiian,10.99
+Philadelphia,Pennsylvania,pepperoni,6.25
+Philadelphia,Pennsylvania,pepperoni,3.95
+Utica,New York,cheese,25.95
+Brentwood,New York,meat,26.5
+Columbus,Ohio,veggie,12
+Columbus,Ohio,meat,12
+Fayetteville,North Carolina,cheese,14.75
+Wantagh,New York,cheese,11
+Hermitage,Tennessee,cheese,10.49
+Pittsburgh,Pennsylvania,cheese,5.99
+Miami,Florida,cheese,7.99
+Merrick,New York,buffalo,24
+Albany,New York,bbq chicken,12.99
+Albany,New York,hawaiian,11.99
+Saratoga Springs,New York,buffalo,10.79
+Bucyrus,Ohio,meat,7.95
+Burlington,North Carolina,cheese,4.95
+Plattsburgh,New York,cheese,15
+Avon,New York,veggie,8
+Tonawanda,New York,cheese,7.89
+Springfield,Missouri,meat,27.55
+Springfield,Missouri,bbq chicken,27.55
+Springfield,Missouri,cheese,7.65
+Fort Collins,Colorado,cheese,8.99
+Hillsboro,Oregon,cheese,5
+Henderson,Nevada,cheese,28
+Henderson,Nevada,veggie,17
+Henderson,Nevada,pepperoni,28
+Carrollton,Texas,cheese,14.95
+Carrollton,Texas,cheese,13
+Aurora,Illinois,cheese,13.49
+Aurora,Illinois,cheese,17.29
+Aurora,Illinois,cheese,17.29
+Aurora,Illinois,cheese,16.89
+Aurora,Illinois,cheese,19.99
+San Bernardino,California,pepperoni,4.91
+Hudson,New York,bbq chicken,12.95
+New York,New York,cheese,2.9
+New York,New York,cheese,3
+New York,New York,hawaiian,20.95
+New York,New York,buffalo,22.95
+New York,New York,cheese,3
+New York,New York,meat,20.95
+New York,New York,cheese,3.1
+Minneapolis,Minnesota,cheese,6.99
+New York,New York,meat,25
+New York,New York,meat,25
+New York,New York,bbq chicken,25
+New York,New York,pepperoni,27
+Charleston,South Carolina,cheese,6
+Charleston,South Carolina,cheese,9
+Charleston,South Carolina,cheese,10
+Bettendorf,Iowa,cheese,17
+East Lansing,Michigan,hawaiian,11.99
+Dallas,Texas,veggie,11.95
+New York,New York,buffalo,14
+New York,New York,meat,14
+Denver,Colorado,margherita,8
+New York,New York,hawaiian,19
+Biloxi,Mississippi,cheese,3
+South Bend,Indiana,veggie,9
+South Bend,Indiana,meat,9
+South Bend,Indiana,cheese,8
+Chicago,Illinois,margherita,15.5
+New York,New York,margherita,34
+New York,New York,margherita,39
+New York,New York,meat,39
+Kingston,New York,veggie,11
+Kingston,New York,buffalo,11
+Eugene,Oregon,bbq chicken,27.55
+Eugene,Oregon,cheese,27.55
+Kalamazoo,Michigan,veggie,16.95
+Birmingham,Alabama,cheese,4.25
+Puyallup,Washington,cheese,16.95
+Willow Grove,Pennsylvania,veggie,18
+Willow Grove,Pennsylvania,hawaiian,13.5
+Willow Grove,Pennsylvania,cheese,14.5
+Willow Grove,Pennsylvania,buffalo,14.5
+Willow Grove,Pennsylvania,meat,18
+Willow Grove,Pennsylvania,meat,18
+Willow Grove,Pennsylvania,hawaiian,13.5
+Clute,Texas,cheese,7.49
+Plymouth,Indiana,bbq chicken,20
+Peoria,Arizona,cheese,5.75
+Myrtle Beach,South Carolina,cheese,6.25
+Myrtle Beach,South Carolina,cheese,5.25
+Myrtle Beach,South Carolina,cheese,3.75
+Myrtle Beach,South Carolina,meat,7.25
+Myrtle Beach,South Carolina,hawaiian,6.25
+Albany,New York,veggie,16
+Albany,New York,cheese,16
+Albany,New York,meat,12
+Fairfield,Ohio,cheese,13.55
+Fairfield,Ohio,cheese,3.1
+Fairfield,Ohio,cheese,16.5
+Fairfield,Ohio,cheese,9.8
+Fairfield,Ohio,cheese,17.9
+Fairfield,Ohio,cheese,12.3
+Fairfield,Ohio,cheese,21
+Fairfield,Ohio,cheese,5.95
+Fairfield,Ohio,cheese,3.9
+Fairfield,Ohio,cheese,11.05
+Huntington Beach,California,cheese,5.5
+Vancouver,Washington,pepperoni,15.99
+Vancouver,Washington,hawaiian,14.49
+Vancouver,Washington,meat,16.99
+Vancouver,Washington,meat,19.99
+Marietta,Georgia,veggie,18.5
+Marietta,Georgia,veggie,18.5
+Oregon City,Oregon,cheese,4.3
+Albuquerque,New Mexico,veggie,16
+Albuquerque,New Mexico,cheese,4
+Albuquerque,New Mexico,veggie,15
+Albuquerque,New Mexico,pepperoni,4
+Albuquerque,New Mexico,pepperoni,10.5
+Albuquerque,New Mexico,meat,16
+Santa Monica,California,cheese,16.95
+Santa Monica,California,cheese,15.95
+Santa Monica,California,pepperoni,16.95
+Louisville,Kentucky,cheese,13.99
+Oneonta,New York,veggie,21
+Oneonta,New York,veggie,21
+Payson,Arizona,hawaiian,8
+Albuquerque,New Mexico,margherita,8.5
+Albuquerque,New Mexico,cheese,7.5
+Seabrook,Texas,pepperoni,15
+Collegeville,Pennsylvania,cheese,6.99
+Orlando,Florida,cheese,3.5
+Richton Park,Illinois,cheese,13.25
+Richton Park,Illinois,bbq chicken,13.25
+Richton Park,Illinois,veggie,12.75
+Charlotte,North Carolina,cheese,4.95
+Mukilteo,Washington,cheese,9
+Mukilteo,Washington,cheese,16.5
+Fort Lauderdale,Florida,cheese,14.95
+Weatherford,Texas,veggie,3.5
+Weatherford,Texas,cheese,9.95
+Weatherford,Texas,veggie,16.95
+Weatherford,Texas,cheese,10.95
+Weatherford,Texas,pepperoni,32.95
+Peoria,Arizona,cheese,6.35
+Brooklyn,New York,bbq chicken,22
+Brooklyn,New York,buffalo,22
+Hollywood,Florida,veggie,5.89
+Plant City,Florida,hawaiian,18.95
+Plant City,Florida,cheese,2.75
+Cleveland,Ohio,bbq chicken,13.99
+Cleveland,Ohio,hawaiian,13.99
+Cleveland,Ohio,cheese,8.99
+Cleveland,Ohio,pepperoni,13.99
+Cleveland,Ohio,meat,13.99
+Isle of Palms,South Carolina,bbq chicken,13
+Houston,Texas,cheese,12.99
+Houston,Texas,cheese,8.99
+Houston,Texas,cheese,8.99
+Houston,Texas,meat,12.99
+Houston,Texas,cheese,12.99
+Virginia Beach,Virginia,bbq chicken,13.99
+Virginia Beach,Virginia,bbq chicken,13.99
+Virginia Beach,Virginia,buffalo,14.99
+Waupaca,Wisconsin,cheese,10.99
+Waupaca,Wisconsin,cheese,7.49
+Boise,Idaho,margherita,7.99
+Eagle Point,Oregon,meat,27.55
+Eagle Point,Oregon,meat,27.55
+San Francisco,California,meat,16.8
+San Francisco,California,cheese,15.8
+San Francisco,California,cheese,13.8
+San Francisco,California,cheese,17.8
+Bradenton,Florida,cheese,11
+Ann Arbor,Michigan,veggie,8
+Cupertino,California,veggie,7.75
+Lone Tree,Colorado,bbq chicken,14.59
+Lone Tree,Colorado,bbq chicken,14.99
+Los Angeles,California,cheese,11.49
+Los Angeles,California,veggie,9.79
+Granada Hills,California,cheese,5
+Oakland,California,bbq chicken,26
+Orange Park,Florida,cheese,1.5
+Orange Park,Florida,veggie,10.99
+Orange Park,Florida,hawaiian,10.99
+Orange Park,Florida,hawaiian,10.99
+Orange Park,Florida,veggie,14.99
+Orange Park,Florida,cheese,1.5
+Orange Park,Florida,veggie,10.99
+Orange Park,Florida,veggie,10.99
+Seal Beach,California,cheese,10.5
+Seal Beach,California,veggie,10.5
+Seal Beach,California,cheese,2.75
+Canoga Park,California,cheese,12.69
+Canoga Park,California,bbq chicken,14.79
+Canoga Park,California,margherita,15.99
+Canoga Park,California,pepperoni,5.79
+Canoga Park,California,pepperoni,10.95
+Canoga Park,California,pepperoni,16.99
+Canoga Park,California,pepperoni,13.99
+Canoga Park,California,bbq chicken,14.29
+Canoga Park,California,veggie,10.95
+Canoga Park,California,hawaiian,13.99
+Buford,Georgia,pepperoni,9.99
+Wyandotte,Michigan,veggie,11.5
+Wyandotte,Michigan,meat,12.5
+Wyandotte,Michigan,bbq chicken,9.5
+Ocala,Florida,hawaiian,11.25
+Hamtramck,Michigan,cheese,6.49
+Hamtramck,Michigan,margherita,8.49
+Hamtramck,Michigan,cheese,7.99
+Hamtramck,Michigan,veggie,8.99
+Fort Wayne,Indiana,bbq chicken,16.99
+Fort Wayne,Indiana,hawaiian,14.99
+Fort Wayne,Indiana,bbq chicken,13.99
+Bloomington,Indiana,cheese,4.99
+Grapevine,Texas,cheese,10
+Muskegon,Michigan,pepperoni,5.99
+Sunnyvale,California,pepperoni,7.5
+Sunnyvale,California,meat,8
+Los Angeles,California,hawaiian,15.49
+Los Angeles,California,bbq chicken,5.99
+Los Angeles,California,pepperoni,15.99
+Los Angeles,California,bbq chicken,15.49
+Los Angeles,California,bbq chicken,11.95
+Los Angeles,California,pepperoni,5.69
+Los Angeles,California,margherita,17.49
+Los Angeles,California,bbq chicken,16.29
+Los Angeles,California,hawaiian,14.99
+Los Angeles,California,bbq chicken,15.49
+Los Angeles,California,bbq chicken,18.29
+Los Angeles,California,pepperoni,5.79
+Los Angeles,California,pepperoni,15.99
+Los Angeles,California,veggie,15.49
+Los Angeles,California,veggie,15.49
+Los Angeles,California,pepperoni,11.95
+Los Angeles,California,hawaiian,15.49
+Los Angeles,California,pepperoni,15.29
+Los Angeles,California,cheese,13.89
+Los Angeles,California,hawaiian,5.79
+Los Angeles,California,pepperoni,11.95
+Los Angeles,California,bbq chicken,17.99
+Los Angeles,California,cheese,5.49
+Los Angeles,California,pepperoni,5.89
+Los Angeles,California,veggie,14.99
+Los Angeles,California,pepperoni,15.29
+Levittown,Pennsylvania,margherita,11.5
+Cherryville,Pennsylvania,hawaiian,16.69
+Goldsboro,North Carolina,cheese,6.5
+Green Cove Springs,Florida,cheese,12.99
+Brooklyn,New York,veggie,3.5
+Brooklyn,New York,cheese,17
+Brooklyn,New York,hawaiian,17
+Lexington,Kentucky,cheese,4.99
+Lexington,Kentucky,cheese,10.99
+Gardena,California,cheese,3.99
+Los Angeles,California,hawaiian,8.8
+Los Angeles,California,meat,27.95
+Los Angeles,California,bbq chicken,12.25
+Los Angeles,California,cheese,12.25
+New York,New York,bbq chicken,4.5
+New York,New York,pepperoni,3.5
+Denver,Colorado,margherita,9.98
+Kew Gardens,New York,buffalo,9.45
+Kew Gardens,New York,hawaiian,8.95
+Bryan,Texas,cheese,13.99
+Oceanside,California,margherita,15.99
+Swarthmore,Pennsylvania,cheese,6.5
+New York,New York,cheese,3.95
+New York,New York,cheese,3.95
+New York,New York,margherita,24.95
+Poway,California,cheese,15
+West Palm Beach,Florida,cheese,3
+Racine,Wisconsin,cheese,6.45
+Kansas City,Missouri,cheese,16.95
+Kansas City,Missouri,margherita,21.95
+Buffalo,New York,cheese,27.5
+Buffalo,New York,pepperoni,27.5
+Buffalo,New York,cheese,48.5
+Buffalo,New York,pepperoni,48.5
+Harrisonburg,Virginia,cheese,4
+Richmond,Virginia,meat,5.99
+Cudahy,Wisconsin,bbq chicken,13.1
+Cudahy,Wisconsin,hawaiian,13.1
+Cudahy,Wisconsin,buffalo,13.1
+San Francisco,California,hawaiian,22.55
+San Francisco,California,bbq chicken,26.4
+San Francisco,California,cheese,23.04
+Roanoke,Virginia,cheese,12.25
+Seattle,Washington,pepperoni,35
+Jacksonville,Florida,bbq chicken,11
+New York,New York,veggie,15.5
+New York,New York,buffalo,14.5
+Columbia,Missouri,cheese,8
+Columbia,Missouri,meat,8
+Olympia,Washington,bbq chicken,15
+Wayne,Pennsylvania,cheese,12.99
+Wayne,Pennsylvania,cheese,10.99
+Macon,Georgia,cheese,4.99
+Alpharetta,Georgia,hawaiian,17.75
+Alpharetta,Georgia,veggie,18.5
+Lithia Springs,Georgia,buffalo,3.99
+Naples,Florida,cheese,15.55
+Columbus,Ohio,cheese,9.99
+West Jordan,Utah,pepperoni,10
+West Jordan,Utah,hawaiian,11
+Norfolk,Virginia,cheese,7.65
+Arlington,Virginia,pepperoni,18.69
+New York,New York,hawaiian,13.95
+New York,New York,bbq chicken,12.95
+New York,New York,buffalo,12.95
+New York,New York,bbq chicken,14.95
+Maspeth,New York,cheese,7
+Bronx,New York,cheese,23
+Bloomingdale,Illinois,pepperoni,3.25
+Portage,Michigan,cheese,4.52
+San Dimas,California,meat,12.99
+Los Angeles,California,meat,4.95
+Placentia,California,cheese,7.95
+San Francisco,California,pepperoni,18.7
+Torrance,California,cheese,18.25
+Miami Beach,Florida,meat,14.99
+Miami Beach,Florida,meat,14.99
+Salt Lake City,Utah,cheese,4.95
+Salt Lake City,Utah,cheese,4.95
+Hershey,Pennsylvania,pepperoni,12
+Fort Wayne,Indiana,cheese,5.47
+Newtown,Pennsylvania,meat,11.99
+Newtown,Pennsylvania,margherita,18.99
+Brooklyn,New York,hawaiian,11
+Anaheim,California,cheese,9.99
+Coraopolis,Pennsylvania,meat,8.99
+Coraopolis,Pennsylvania,pepperoni,8.99
+Coraopolis,Pennsylvania,buffalo,8.99
+Chicago,Illinois,veggie,6
+Chicago,Illinois,cheese,14.45
+Jackson Heights,New York,cheese,16.69
+New York,New York,cheese,2.25
+Brooklyn,New York,pepperoni,15
+Brooklyn,New York,hawaiian,17
+Bronx,New York,cheese,12
+Denver,Colorado,cheese,14
+Park City,Utah,margherita,17
+Atlanta,Georgia,buffalo,9.99
+Atlanta,Georgia,hawaiian,9.99
+Atlanta,Georgia,bbq chicken,9.99
+Atlanta,Georgia,cheese,9.99
+Seattle,Washington,cheese,13.5
+Seattle,Washington,cheese,18
+Berkley,Michigan,hawaiian,16.99
+Berkley,Michigan,bbq chicken,16.99
+Berkley,Michigan,bbq chicken,16.99
+Brooklyn,New York,veggie,18.95
+Brooklyn,New York,meat,25
+New City,New York,cheese,12.5
+New City,New York,cheese,19
+Santa Monica,California,cheese,12.95
+Santa Monica,California,cheese,9.95
+Santa Monica,California,bbq chicken,13.95
+Brooklyn,New York,cheese,10
+Brooklyn,New York,meat,13.99
+Brooklyn,New York,hawaiian,13.99
+Brooklyn,New York,bbq chicken,13.99
+Brooklyn,New York,bbq chicken,11.99
+San Francisco,California,hawaiian,15.3
+San Francisco,California,cheese,29.55
+Ridgewood,New York,margherita,37.99
+Mason,Michigan,cheese,10.99
+Pittsburgh,Pennsylvania,bbq chicken,12.99
+Pittsburgh,Pennsylvania,cheese,12.99
+Chicago,Illinois,pepperoni,13.5
+Sunnyvale,California,cheese,19.5
+Scranton,Pennsylvania,buffalo,7.95
+Baltimore,Maryland,buffalo,12.99
+New York,New York,cheese,20
+New York,New York,pepperoni,19
+New York,New York,cheese,13
+New York,New York,veggie,16
+Philadelphia,Pennsylvania,cheese,11.99
+Lawrenceville,Georgia,margherita,21.95
+Fairbanks,Alaska,cheese,15.99
+Philadelphia,Pennsylvania,meat,5.8
+Americus,Georgia,bbq chicken,8.99
+Americus,Georgia,hawaiian,7.99
+Americus,Georgia,cheese,7.99
+Americus,Georgia,cheese,9.95
+Richton Park,Illinois,hawaiian,4.5
+Richton Park,Illinois,hawaiian,15.5
+Bradenton,Florida,cheese,6.99
+Bradenton,Florida,hawaiian,9.49
+New York,New York,cheese,7.95
+New Hyde Park,New York,margherita,8
+New York,New York,pepperoni,21
+Philadelphia,Pennsylvania,meat,6.55
+Philadelphia,Pennsylvania,cheese,14.99
+Philadelphia,Pennsylvania,veggie,15.99
+Pacifica,California,veggie,16
+Pacifica,California,cheese,11
+Pacifica,California,cheese,12
+Pacifica,California,pepperoni,4
+Pittsburgh,Pennsylvania,cheese,10
+Pittsburgh,Pennsylvania,cheese,9.99
+Encino,California,cheese,9.99
+Cleveland,Ohio,hawaiian,33.95
+Cleveland,Ohio,cheese,16.95
+Cleveland,Ohio,cheese,16.95
+Cleveland,Ohio,buffalo,33.95
+Las Vegas,Nevada,pepperoni,8.79
+Las Vegas,Nevada,meat,7.19
+Las Vegas,Nevada,cheese,5.69
+Las Vegas,Nevada,meat,26.49
+Las Vegas,Nevada,pepperoni,26.49
+Warren,Michigan,cheese,4.49
+Schaumburg,Illinois,cheese,2
+Seattle,Washington,cheese,13.25
+Seattle,Washington,cheese,17
+Seattle,Washington,cheese,17
+Seattle,Washington,cheese,13.26
+New York,New York,hawaiian,7.5
+Wood Dale,Illinois,margherita,13.65
+Wood Dale,Illinois,margherita,13.65
+Ocala,Florida,veggie,23.75
+Ocala,Florida,pepperoni,20.75
+Encino,California,hawaiian,25.95
+Encino,California,cheese,25.95
+Encino,California,cheese,25.95
+Knoxville,Tennessee,cheese,8
+Oxford,Pennsylvania,cheese,10.75
+Cary,North Carolina,cheese,8.5
+Cary,North Carolina,cheese,15
+Cary,North Carolina,cheese,11.5
+Cary,North Carolina,cheese,13.75
+Cary,North Carolina,cheese,6.5
+San Marcos,Texas,bbq chicken,10.99
+San Marcos,Texas,cheese,4.79
+New York,New York,hawaiian,11.5
+Buffalo,New York,buffalo,11.95
+Buffalo,New York,veggie,12.95
+Buffalo,New York,veggie,13.45
+Buffalo,New York,hawaiian,10.95
+Buffalo,New York,meat,12.95
+Astoria,New York,cheese,13
+Astoria,New York,cheese,30
+Astoria,New York,meat,20
+Astoria,New York,buffalo,24
+Astoria,New York,meat,18
+Brooklyn,New York,veggie,24
+Brooklyn,New York,cheese,16
+Brooklyn,New York,veggie,26
+Brooklyn,New York,cheese,19
+Brooklyn,New York,cheese,16
+Jackson Heights,New York,cheese,6
+Jackson Heights,New York,pepperoni,8
+Jackson Heights,New York,pepperoni,8
+Jackson Heights,New York,hawaiian,10
+New York,New York,cheese,19.5
+New York,New York,cheese,15.5
+New York,New York,meat,24
+Brooklyn,New York,margherita,10.95
+Brooklyn,New York,cheese,10.95
+New York,New York,margherita,21
+Brooklyn,New York,cheese,13.99
+Brooklyn,New York,hawaiian,3.5
+Brooklyn,New York,meat,17.99
+Brooklyn,New York,pepperoni,3.5
+Brooklyn,New York,pepperoni,13.99
+Brooklyn,New York,hawaiian,16.99
+Brooklyn,New York,hawaiian,3.5
+Brooklyn,New York,cheese,9.99
+New York,New York,buffalo,28
+New York,New York,buffalo,28
+New York,New York,bbq chicken,28
+New York,New York,cheese,3.5
+New York,New York,meat,30.98
+New York,New York,buffalo,25
+New York,New York,cheese,30.98
+New York,New York,cheese,20
+New York,New York,veggie,27
+New York,New York,meat,5
+New York,New York,veggie,4.5
+New York,New York,cheese,21.87
+New York,New York,hawaiian,5
+New York,New York,cheese,3.5
+New York,New York,veggie,30.98
+New York,New York,veggie,35.54
+New York,New York,cheese,27
+New York,New York,cheese,11
+New York,New York,cheese,22
+New York,New York,cheese,26
+New York,New York,pepperoni,26
+New York,New York,meat,18
+New York,New York,veggie,18.95
+New York,New York,cheese,16
+New York,New York,margherita,13.95
+New York,New York,meat,26
+New York,New York,cheese,13
+New York,New York,cheese,16
+New York,New York,hawaiian,4.25
+New York,New York,pepperoni,16
+New York,New York,hawaiian,18.75
+New York,New York,meat,24.25
+Brooklyn,New York,hawaiian,19
+Brooklyn,New York,hawaiian,19
+Santa Barbara,California,veggie,9.99
+Santa Barbara,California,veggie,9.99
+Santa Barbara,California,bbq chicken,9.99
+Santa Barbara,California,veggie,10.49
+Tonawanda,New York,cheese,36.98
+Tonawanda,New York,cheese,32.89
+Tonawanda,New York,cheese,31.98
+Gilbert,Arizona,cheese,2.5
+Bronx,New York,hawaiian,17
+Bronx,New York,buffalo,19
+Bronx,New York,margherita,13
+Bronx,New York,margherita,17
+Bronx,New York,buffalo,17.5
+Bronx,New York,meat,17.5
+Bronx,New York,hawaiian,15.5
+Yonkers,New York,cheese,15
+Henderson,Nevada,cheese,5.95
+Henderson,Nevada,cheese,5.95
+Henderson,Nevada,cheese,7.95
+Branson,Missouri,cheese,14.99
+Houston,Texas,cheese,0
+Naples,Florida,meat,17.95
+El Mirage,Arizona,veggie,18.75
+El Mirage,Arizona,cheese,15.95
+El Mirage,Arizona,veggie,14.75
+El Mirage,Arizona,cheese,6.25
+El Mirage,Arizona,cheese,14.75
+El Mirage,Arizona,hawaiian,12.75
+El Mirage,Arizona,hawaiian,12.75
+Manhattan Beach,California,bbq chicken,17.5
+Chicago,Illinois,cheese,13.99
+Chicago,Illinois,hawaiian,14.99
+Chicago,Illinois,meat,13.99
+Chicago,Illinois,meat,14.99
+Chicago,Illinois,buffalo,14.99
+Chicago,Illinois,bbq chicken,13.99
+Brooklyn,New York,cheese,12
+Brooklyn,New York,buffalo,18
+Brooklyn,New York,veggie,18
+Brooklyn,New York,cheese,10.75
+Saint Louis,Missouri,buffalo,13
+Bakersfield,California,cheese,22.69
+Bakersfield,California,veggie,27.79
+Bakersfield,California,pepperoni,26.99
+Bakersfield,California,pepperoni,8.24
+Bakersfield,California,meat,27.79
+Bakersfield,California,veggie,7.19
+Bakersfield,California,hawaiian,26.59
+Bakersfield,California,meat,9.29
+Bakersfield,California,veggie,9.29
+Bakersfield,California,pepperoni,26.34
+Bakersfield,California,pepperoni,9.29
+Charlotte,North Carolina,buffalo,13.99
+Tampa,Florida,cheese,4.75
+Tampa,Florida,cheese,5.95
+Arlington,Virginia,margherita,11.79
+Arlington,Virginia,cheese,9.69
+Arlington,Virginia,cheese,12.29
+Arlington,Virginia,margherita,11.69
+Arlington,Virginia,cheese,12.99
+Arlington,Virginia,margherita,12.75
+Boulder,Colorado,pepperoni,11.5
+Boulder,Colorado,meat,15
+Boulder,Colorado,pepperoni,9.5
+Boulder,Colorado,hawaiian,11
+Austin,Texas,pepperoni,10
+Austin,Texas,veggie,14
+Austin,Texas,hawaiian,11
+Austin,Texas,meat,14
+El Cajon,California,veggie,14
+El Cajon,California,cheese,7.39
+El Cajon,California,pepperoni,14
+El Cajon,California,cheese,14
+El Cajon,California,pepperoni,14
+El Cajon,California,hawaiian,14
+Cheswick,Pennsylvania,buffalo,8
+Cheswick,Pennsylvania,pepperoni,8
+Austin,Texas,cheese,18.99
+Roseville,Michigan,cheese,8
+Roseville,Michigan,hawaiian,8
+Roseville,Michigan,meat,8
+Thousand Oaks,California,pepperoni,11.95
+Thousand Oaks,California,pepperoni,17.99
+Thousand Oaks,California,pepperoni,16.79
+Thousand Oaks,California,pepperoni,15.49
+Thousand Oaks,California,pepperoni,11.95
+Thousand Oaks,California,hawaiian,14.99
+Thousand Oaks,California,pepperoni,16.49
+Thousand Oaks,California,bbq chicken,14.99
+Thousand Oaks,California,pepperoni,13.99
+Thousand Oaks,California,cheese,5.49
+Thousand Oaks,California,hawaiian,5.59
+Thousand Oaks,California,hawaiian,14.99
+Thousand Oaks,California,bbq chicken,14.99
+Thousand Oaks,California,bbq chicken,17.49
+Thousand Oaks,California,hawaiian,14.49
+Thousand Oaks,California,veggie,14.99
+Thousand Oaks,California,veggie,11.95
+Thousand Oaks,California,bbq chicken,11.95
+Thousand Oaks,California,pepperoni,14.29
+Thousand Oaks,California,cheese,13.49
+Thousand Oaks,California,pepperoni,15.89
+Thousand Oaks,California,cheese,12.99
+Thousand Oaks,California,margherita,14.89
+Canton,Georgia,cheese,9.99
+Canton,Georgia,buffalo,9.99
+Canton,Georgia,margherita,9.99
+Canton,Georgia,cheese,9.29
+Fayetteville,Georgia,cheese,1.99
+Fayetteville,Georgia,margherita,14.99
+Atlanta,Georgia,buffalo,3.99
+Atlanta,Georgia,cheese,3.79
+Sacramento,California,hawaiian,5.59
+Sacramento,California,pepperoni,15.99
+Sacramento,California,pepperoni,5.69
+Sacramento,California,margherita,16.49
+Sacramento,California,pepperoni,17.49
+Sacramento,California,pepperoni,13.99
+Sacramento,California,pepperoni,5.79
+Sacramento,California,bbq chicken,16.99
+Sacramento,California,bbq chicken,14.99
+Sacramento,California,pepperoni,15.49
+Mesquite,Texas,meat,27.55
+Lakewood,California,bbq chicken,17.49
+Lakewood,California,pepperoni,16.49
+Lakewood,California,pepperoni,15.49
+Lakewood,California,pepperoni,11.95
+Lakewood,California,cheese,12.49
+Lakewood,California,veggie,11.95
+Lakewood,California,cheese,13.49
+Lakewood,California,pepperoni,5.69
+Lakewood,California,margherita,17.39
+Lakewood,California,margherita,14.49
+Lakewood,California,pepperoni,5.99
+Lakewood,California,veggie,14.99
+Lakewood,California,margherita,16.99
+Lakewood,California,pepperoni,5.89
+Lakewood,California,pepperoni,11.95
+Lakewood,California,bbq chicken,11.95
+Lakewood,California,pepperoni,11.95
+Lakewood,California,cheese,5.49
+Lakewood,California,pepperoni,15.89
+Lakewood,California,hawaiian,14.99
+Lakewood,California,pepperoni,13.99
+Lakewood,California,pepperoni,17.99
+Lakewood,California,bbq chicken,14.29
+Lakewood,California,cheese,13.49
+Lakewood,California,margherita,14.89
+Lakewood,California,hawaiian,14.99
+Lakewood,California,cheese,12.99
+Los Angeles,California,bbq chicken,5.99
+Los Angeles,California,cheese,13.49
+Los Angeles,California,bbq chicken,15.79
+Los Angeles,California,hawaiian,5.59
+Los Angeles,California,cheese,12.69
+Los Angeles,California,bbq chicken,5.99
+Los Angeles,California,pepperoni,18.49
+Los Angeles,California,veggie,11.95
+Los Angeles,California,pepperoni,5.89
+Los Angeles,California,margherita,17.49
+Los Angeles,California,bbq chicken,17.99
+Los Angeles,California,cheese,13.89
+Los Angeles,California,bbq chicken,11.95
+Los Angeles,California,pepperoni,11.95
+Los Angeles,California,pepperoni,15.99
+Los Angeles,California,pepperoni,5.79
+Los Angeles,California,pepperoni,14.99
+Los Angeles,California,margherita,15.39
+Los Angeles,California,veggie,14.99
+Los Angeles,California,pepperoni,17.79
+Los Angeles,California,pepperoni,15.99
+Los Angeles,California,veggie,15.49
+Los Angeles,California,cheese,13.89
+Los Angeles,California,hawaiian,5.79
+Tampa,Florida,cheese,0
+Tampa,Florida,meat,0
+Tampa,Florida,veggie,0
+Newark,California,cheese,17.4
+Chicago,Illinois,meat,16
+Chicago,Illinois,buffalo,16
+Los Angeles,California,bbq chicken,19.99
+Los Angeles,California,cheese,6.75
+Los Angeles,California,cheese,17.99
+Los Angeles,California,margherita,9.49
+Los Angeles,California,margherita,7.25
+Los Angeles,California,cheese,5.25
+Los Angeles,California,cheese,10.99
+Los Angeles,California,cheese,19.99
+New York,New York,margherita,15
+Akron,Ohio,buffalo,7.49
+Richardson,Texas,pepperoni,10
+Aurora,Illinois,hawaiian,10.99
+Aurora,Illinois,hawaiian,16.99
+Sacramento,California,buffalo,12.95
+Sacramento,California,hawaiian,6.55
+Madison Heights,Michigan,veggie,9.99
+Madison Heights,Michigan,hawaiian,9.99
+Madison Heights,Michigan,meat,9.99
+Madison Heights,Michigan,hawaiian,9.99
+El Segundo,California,cheese,10.99
+El Segundo,California,cheese,16.99
+El Segundo,California,margherita,15.99
+El Segundo,California,buffalo,21.99
+El Segundo,California,meat,19.99
+El Segundo,California,meat,17.99
+El Segundo,California,bbq chicken,15.99
+Reno,Nevada,meat,20.99
+Reno,Nevada,cheese,22.99
+Reno,Nevada,hawaiian,14.99
+Reno,Nevada,meat,20.99
+Reno,Nevada,cheese,16.99
+Reno,Nevada,meat,20.99
+Reno,Nevada,hawaiian,14.99
+Reno,Nevada,meat,17.99
+Reno,Nevada,meat,19.99
+Reno,Nevada,meat,22.99
+Reno,Nevada,cheese,19.99
+Reno,Nevada,hawaiian,17.99
+Reno,Nevada,meat,14.99
+Reno,Nevada,cheese,16.99
+Reno,Nevada,meat,17.99
+Reno,Nevada,meat,19.99
+Reno,Nevada,cheese,22.99
+Reno,Nevada,cheese,16.99
+Reno,Nevada,hawaiian,14.99
+Reno,Nevada,meat,22.99
+Brooklyn,New York,margherita,13.5
+Henderson,Nevada,cheese,9.99
+Henderson,Nevada,cheese,6.99
+Henderson,Nevada,cheese,7.99
+Henderson,Nevada,cheese,6.99
+Henderson,Nevada,buffalo,15.99
+Henderson,Nevada,cheese,7.99
+Henderson,Nevada,cheese,16.99
+Henderson,Nevada,cheese,9.99
+Henderson,Nevada,cheese,4.99
+San Diego,California,pepperoni,13.95
+San Diego,California,veggie,17.5
+San Diego,California,meat,21.95
+Dallas,Texas,cheese,9.99
+Dallas,Texas,cheese,2.99
+Dallas,Texas,pepperoni,10.99
+Dallas,Texas,meat,3.99
+New York,New York,meat,22
+New York,New York,meat,4
+New York,New York,meat,4.25
+New York,New York,margherita,21
+New York,New York,hawaiian,20
+New York,New York,meat,20
+New York,New York,cheese,3
+Santa Clarita,California,cheese,17.95
+Santa Clarita,California,buffalo,17.95
+Santa Clarita,California,cheese,13.95
+La Quinta,California,cheese,8.3
+La Quinta,California,margherita,8.79
+La Quinta,California,veggie,10.99
+La Quinta,California,veggie,10.99
+Newberg,Oregon,meat,27.55
+Newberg,Oregon,cheese,7.65
+Newberg,Oregon,meat,0
+Newberg,Oregon,bbq chicken,27.55
+Austin,Texas,buffalo,0.59
+Austin,Texas,cheese,14.99
+Austin,Texas,veggie,0.59
+Hilton Head Island,South Carolina,cheese,14
+Hilton Head Island,South Carolina,cheese,2.75
+Cincinnati,Ohio,pepperoni,4.5
+Playa del Rey,California,meat,23.99
+Playa del Rey,California,buffalo,22.99
+Playa del Rey,California,margherita,19
+Playa del Rey,California,meat,24.5
+Hudson,Wisconsin,cheese,4.49
+Nashville,Tennessee,cheese,9.75
+Depew,New York,meat,5.5
+Depew,New York,hawaiian,5.5
+Depew,New York,cheese,5.99
+New York,New York,margherita,25
+Gainesville,Virginia,veggie,17.75
+Gainesville,Virginia,hawaiian,17.75
+Philadelphia,Pennsylvania,buffalo,14.5
+Palo Alto,California,bbq chicken,17.99
+Torrance,California,cheese,11.3
+Selinsgrove,Pennsylvania,cheese,9
+Selinsgrove,Pennsylvania,cheese,10
+Selinsgrove,Pennsylvania,cheese,9
+Reading,Pennsylvania,cheese,59.99
+Reading,Pennsylvania,cheese,15.99
+Mesa,Arizona,cheese,5.75
+Mesa,Arizona,cheese,5.75
+Mesa,Arizona,cheese,5.75
+Buffalo,New York,cheese,4.99
+Buffalo,New York,pepperoni,4.99
+Buffalo,New York,cheese,7.99
+Buffalo,New York,pepperoni,7.99
+Buffalo,New York,meat,0
+Buffalo,New York,hawaiian,12.4
+Buffalo,New York,cheese,16.49
+Buffalo,New York,cheese,14.89
+Buffalo,New York,cheese,9.6
+Buffalo,New York,cheese,9.6
+Buffalo,New York,cheese,14.89
+Belleview,Florida,cheese,5.95
+San Antonio,Texas,veggie,18
+San Antonio,Texas,cheese,11.95
+San Antonio,Texas,meat,18
+Carle Place,New York,bbq chicken,12
+Flushing,New York,veggie,22
+Flushing,New York,buffalo,25
+Flushing,New York,hawaiian,17.5
+Flushing,New York,cheese,4.5
+Flushing,New York,cheese,14.5
+Flushing,New York,meat,25
+Flushing,New York,cheese,16.5
+Flushing,New York,cheese,4.5
+Flushing,New York,cheese,15.5
+Flushing,New York,buffalo,24
+Flushing,New York,buffalo,4.5
+Flushing,New York,meat,4.5
+Flushing,New York,cheese,18
+Flushing,New York,bbq chicken,24
+Flushing,New York,cheese,4.5
+Flushing,New York,hawaiian,15
+Flushing,New York,meat,22
+Flushing,New York,cheese,15.5
+Flushing,New York,cheese,11
+Columbus,Ohio,veggie,11.25
+Valencia,California,veggie,10.95
+Valencia,California,pepperoni,8.95
+Valencia,California,cheese,10.5
+Valencia,California,veggie,10.5
+Long Beach,California,cheese,10.95
+Long Beach,California,hawaiian,7.95
+Long Beach,California,bbq chicken,10.95
+Astoria,New York,margherita,2.5
+Astoria,New York,meat,4.25
+Astoria,New York,meat,5.75
+Astoria,New York,cheese,8.5
+Astoria,New York,veggie,3
+Astoria,New York,cheese,3.5
+Astoria,New York,veggie,4.25
+Astoria,New York,bbq chicken,2.5
+Charlotte,North Carolina,pepperoni,7
+Charlotte,North Carolina,cheese,12
+Charlotte,North Carolina,cheese,12
+Charlotte,North Carolina,pepperoni,6.5
+Brooklyn,New York,pepperoni,17
+Brooklyn,New York,meat,17
+Brooklyn,New York,margherita,15
+Brooklyn,New York,margherita,15
+Brooklyn,New York,margherita,17
+Huntington Beach,California,cheese,1.7
+Kalamazoo,Michigan,cheese,13.99
+Kalamazoo,Michigan,hawaiian,13.99
+Kalamazoo,Michigan,bbq chicken,13.99
+Brooklyn,New York,meat,3.5
+Brooklyn,New York,pepperoni,3.5
+Brooklyn,New York,meat,20
+Brooklyn,New York,cheese,3
+Brooklyn,New York,cheese,18
+Brooklyn,New York,buffalo,20
+Warren,Michigan,cheese,0.99
+Warren,Michigan,bbq chicken,9.56
+Warren,Michigan,meat,10.55
+Saline,Michigan,meat,10.55
+Rochester,Michigan,bbq chicken,9.56
+Orland Park,Illinois,cheese,13.75
+Orland Park,Illinois,pepperoni,8.45
+Highland Park,Illinois,cheese,15
+Highland Park,Illinois,cheese,16
+Highland Park,Illinois,cheese,15.5
+Highland Park,Illinois,cheese,10
+Highland Park,Illinois,cheese,12
+Highland Park,Illinois,meat,5.99
+Highland Park,Illinois,cheese,18
+Olathe,Kansas,veggie,14
+Olathe,Kansas,pepperoni,10
+Olathe,Kansas,meat,14
+Columbus,Ohio,pepperoni,8.95
+San Francisco,California,cheese,14.5
+San Francisco,California,bbq chicken,14.5
+San Francisco,California,cheese,9
+San Francisco,California,cheese,9
+Pleasanton,California,cheese,15.5
+Pleasanton,California,bbq chicken,20.25
+New York,New York,cheese,3
+New York,New York,hawaiian,16.25
+New York,New York,buffalo,15.75
+New York,New York,margherita,13
+San Antonio,Texas,pepperoni,5.95
+Columbia,Missouri,cheese,9.25
+Jackson Heights,New York,cheese,15.95
+Jackson Heights,New York,cheese,16
+Milwaukee,Wisconsin,cheese,1.69
+Milwaukee,Wisconsin,cheese,8.49
+Plainview,New York,buffalo,22
+Plainview,New York,bbq chicken,22
+Plainview,New York,margherita,8.95
+Cypress,Texas,cheese,7
+Long Beach,California,meat,20
+Long Beach,California,cheese,15
+Long Beach,California,margherita,14
+Chicago,Illinois,veggie,19.95
+Chicago,Illinois,cheese,14.45
+Chicago,Illinois,cheese,13.95
+Chicago,Illinois,cheese,17.45
+Chicago,Illinois,cheese,16.95
+Chicago,Illinois,meat,17.45
+Wausau,Wisconsin,cheese,13.49
+Wausau,Wisconsin,cheese,10.49
+Seaford,New York,cheese,10.5
+Seaford,New York,cheese,16.75
+Seaford,New York,meat,4.85
+Seaford,New York,cheese,2.75
+Seaford,New York,cheese,9.5
+East Peoria,Illinois,cheese,8.5
+New York,New York,veggie,24.95
+New York,New York,buffalo,14.95
+New York,New York,margherita,25.95
+New York,New York,cheese,16.95
+New York,New York,hawaiian,23.95
+Warrington,Pennsylvania,cheese,15.75
+Warrington,Pennsylvania,buffalo,15.75
+Warrington,Pennsylvania,hawaiian,14.75
+Warrington,Pennsylvania,cheese,16.75
+Saint Paul,Minnesota,buffalo,17.99
+Boulder,Colorado,margherita,12
+Boulder,Colorado,margherita,9
+Boulder,Colorado,margherita,17
+Chicago,Illinois,cheese,34.95
+New York,New York,margherita,3.75
+New York,New York,buffalo,5
+New York,New York,pepperoni,14.95
+New York,New York,cheese,11.95
+New York,New York,pepperoni,3.5
+Frederick,Maryland,cheese,12
+Frederick,Maryland,cheese,19.95
+Frederick,Maryland,pepperoni,17.5
+Frederick,Maryland,pepperoni,18.5
+Mamaroneck,New York,hawaiian,12.99
+Mamaroneck,New York,veggie,12.99
+Mamaroneck,New York,cheese,12.99
+Mamaroneck,New York,cheese,9.99
+Mamaroneck,New York,bbq chicken,12.99
+Jacksonville,Florida,bbq chicken,14.99
+Jacksonville,Florida,bbq chicken,14.49
+Jacksonville,Florida,pepperoni,14.29
+Brooklyn,New York,cheese,20
+Brooklyn,New York,pepperoni,16
+Brooklyn,New York,cheese,14
+Los Angeles,California,margherita,19
+Los Angeles,California,cheese,3
+Los Angeles,California,meat,23.99
+Canyon Country,California,cheese,10.5
+Longmont,Colorado,margherita,8
+Artesia,California,cheese,10
+El Paso,Texas,meat,13.99
+El Paso,Texas,veggie,13.99
+El Paso,Texas,cheese,7.45
+El Paso,Texas,cheese,9.15
+Eau Claire,Wisconsin,meat,13.99
+Eau Claire,Wisconsin,bbq chicken,13.99
+Eau Claire,Wisconsin,cheese,13.99
+Rockville Centre,New York,margherita,13
+Brodheadsville,Pennsylvania,margherita,19.99
+Ypsilanti,Michigan,cheese,8
+Ypsilanti,Michigan,cheese,5
+Ypsilanti,Michigan,cheese,6.5
+Ypsilanti,Michigan,meat,8
+Ypsilanti,Michigan,cheese,3.89
+Malvern,Pennsylvania,cheese,10.99
+Tucson,Arizona,veggie,16.56
+Mount Pleasant,Michigan,cheese,5
+Atlanta,Georgia,veggie,10
+Tampa,Florida,hawaiian,9
+Tampa,Florida,bbq chicken,17.25
+Tampa,Florida,bbq chicken,9
+Tampa,Florida,buffalo,17.25
+Yonkers,New York,margherita,10.5
+Dallas,Texas,cheese,15
+Bronx,New York,meat,10
+Astoria,New York,meat,19
+Astoria,New York,cheese,13
+Astoria,New York,cheese,16
+Saint Paul,Minnesota,meat,16
+Saint Paul,Minnesota,hawaiian,13
+Saint Paul,Minnesota,cheese,4
+Saint Paul,Minnesota,pepperoni,11.5
+Saint Paul,Minnesota,veggie,15
+Minneapolis,Minnesota,veggie,15
+Minneapolis,Minnesota,hawaiian,14
+Minneapolis,Minnesota,pepperoni,12.5
+Minneapolis,Minnesota,meat,15
+Minneapolis,Minnesota,meat,16
+Minneapolis,Minnesota,meat,16
+Brooklyn,New York,bbq chicken,18
+Brooklyn,New York,bbq chicken,20
+Brooklyn,New York,cheese,10
+Brooklyn,New York,buffalo,18
+Brooklyn,New York,buffalo,20
+Irving,Texas,cheese,5.99
+Angola,Indiana,cheese,9.99
+Angola,Indiana,cheese,7.99
+Babylon,New York,cheese,12.99
+Saratoga Springs,New York,pepperoni,7
+Saratoga Springs,New York,bbq chicken,9
+San Francisco,California,hawaiian,14.7
+San Francisco,California,margherita,16.25
+San Francisco,California,cheese,17.99
+San Francisco,California,cheese,10.99
+San Francisco,California,cheese,13.99
+San Francisco,California,bbq chicken,17.8
+Roseville,California,cheese,9.5
+Newport Beach,California,bbq chicken,5.99
+Newport Beach,California,pepperoni,10.95
+Newport Beach,California,veggie,13.99
+Newport Beach,California,pepperoni,13.89
+Newport Beach,California,bbq chicken,15.49
+Newport Beach,California,bbq chicken,10.95
+Newport Beach,California,hawaiian,13.99
+Newport Beach,California,cheese,11.99
+Hopkins,Minnesota,meat,11.49
+Hopkins,Minnesota,veggie,11.49
+Oakland,California,margherita,17
+Brooklyn,New York,cheese,2.75
+Brooklyn,New York,cheese,2.75
+Pittsburgh,Pennsylvania,buffalo,14.99
+Pittsburgh,Pennsylvania,bbq chicken,14.99
+Pittsburgh,Pennsylvania,hawaiian,14.99
+Pittsburgh,Pennsylvania,pepperoni,14.99
+Pittsburgh,Pennsylvania,hawaiian,14.99
+Pittsburgh,Pennsylvania,cheese,6.99
+Jacksonville,Florida,hawaiian,13
+Jacksonville,Florida,bbq chicken,13
+Jacksonville,Florida,meat,13
+Corpus Christi,Texas,cheese,5.5
+Corpus Christi,Texas,pepperoni,1.97
+Corpus Christi,Texas,veggie,14.27
+Corpus Christi,Texas,bbq chicken,14.27
+Youngstown,Ohio,cheese,13
+Youngstown,Ohio,cheese,9.5
+Youngstown,Ohio,pepperoni,9.75
+Youngstown,Ohio,meat,5.75
+Youngstown,Ohio,bbq chicken,5.5
+Youngstown,Ohio,cheese,3.25
+Youngstown,Ohio,meat,12
+Long Beach,California,pepperoni,5
+Long Beach,California,cheese,6.5
+Long Beach,California,bbq chicken,6
+Long Beach,California,veggie,7.25
+Long Beach,California,meat,6.5
+Long Beach,California,buffalo,9.75
+Long Beach,California,hawaiian,8.95
+Long Beach,California,bbq chicken,7.75
+Long Beach,California,cheese,7
+Long Beach,California,cheese,6.5
+Milwaukee,Wisconsin,cheese,8.49
+Phoenix,Arizona,cheese,5
+Phoenix,Arizona,pepperoni,5
+Doylestown,Pennsylvania,meat,12
+Brooklyn,New York,margherita,21
+Brooklyn,New York,margherita,18
+Carrollton,Texas,cheese,5.99
+Cincinnati,Ohio,pepperoni,15
+Cincinnati,Ohio,veggie,18
+Cincinnati,Ohio,hawaiian,18
+Cincinnati,Ohio,pepperoni,18
+Rochester,New York,margherita,16
+Rochester,New York,margherita,13
+Rochester,New York,margherita,16
+Norfolk,Virginia,bbq chicken,11.99
+Norfolk,Virginia,hawaiian,11.99
+Everett,Washington,cheese,14.99
+Everett,Washington,veggie,14.99
+Everett,Washington,meat,14.99
+Everett,Washington,hawaiian,14.99
+Everett,Washington,veggie,14.99
+South Jordan,Utah,buffalo,10.98
+South Jordan,Utah,bbq chicken,15.99
+South Jordan,Utah,cheese,7.99
+South Jordan,Utah,cheese,16.99
+South Jordan,Utah,hawaiian,18.98
+South Jordan,Utah,hawaiian,10.49
+South Jordan,Utah,meat,19.99
+South Jordan,Utah,hawaiian,7.59
+South Jordan,Utah,buffalo,19.98
+South Jordan,Utah,cheese,13.99
+South Jordan,Utah,meat,11.79
+South Jordan,Utah,cheese,8.98
+South Jordan,Utah,bbq chicken,11.99
+South Jordan,Utah,hawaiian,10.58
+South Jordan,Utah,buffalo,23.99
+South Jordan,Utah,cheese,13.99
+South Jordan,Utah,cheese,16.99
+South Jordan,Utah,cheese,8.98
+South Jordan,Utah,cheese,7.99
+Grafton,Wisconsin,veggie,19.99
+Grafton,Wisconsin,meat,19.99
+Pittsburgh,Pennsylvania,margherita,10.25
+Piermont,New York,margherita,19.5
+Ithaca,New York,cheese,28.99
+Ithaca,New York,cheese,24.99
+Ithaca,New York,cheese,9
+Ithaca,New York,hawaiian,19.99
+Ithaca,New York,cheese,39.99
+Ithaca,New York,cheese,24.95
+Ithaca,New York,bbq chicken,19.99
+Ithaca,New York,meat,15.25
+Ithaca,New York,cheese,17.95
+Ithaca,New York,cheese,19.99
+Guilderland,New York,buffalo,13
+Guilderland,New York,meat,13
+Brooklyn,New York,cheese,10
+Brooklyn,New York,meat,18
+Brooklyn,New York,cheese,2.75
+Marietta,Georgia,cheese,4.95
+Marietta,Georgia,cheese,10.95
+Marietta,Georgia,pepperoni,4.95
+Marietta,Georgia,margherita,10.95
+Flushing,New York,bbq chicken,9.5
+Flushing,New York,margherita,9.95
+Flushing,New York,margherita,19
+Flushing,New York,buffalo,18
+Flushing,New York,bbq chicken,18
+Syracuse,New York,cheese,16.49
+Syracuse,New York,cheese,18.49
+Syracuse,New York,veggie,18.49
+Syracuse,New York,bbq chicken,16.49
+Syracuse,New York,meat,18.49
+Syracuse,New York,cheese,13.99
+Syracuse,New York,cheese,6
+Syracuse,New York,pepperoni,16.49
+Syracuse,New York,buffalo,16.49
+Syracuse,New York,veggie,16.49
+Syracuse,New York,veggie,18.49
+Syracuse,New York,hawaiian,18.49
+Syracuse,New York,pepperoni,16.49
+Syracuse,New York,meat,16.49
+Syracuse,New York,hawaiian,16.49
+Chicago,Illinois,cheese,22
+San Bruno,California,cheese,5.09
+San Bruno,California,meat,6.39
+Pittsburgh,Pennsylvania,cheese,5.99
+Pittsburgh,Pennsylvania,meat,13.99
+Pittsburgh,Pennsylvania,bbq chicken,13.99
+New York,New York,cheese,2.5
+New York,New York,pepperoni,6.95
+New York,New York,bbq chicken,19
+Kingwood,Texas,cheese,12.5
+Chandler,Arizona,cheese,5.75
+Hewlett,New York,cheese,5
+Hewlett,New York,cheese,19.5
+Orlando,Florida,veggie,8.95
+Orlando,Florida,cheese,6.95
+Orlando,Florida,pepperoni,9.95
+Los Angeles,California,margherita,3.5
+Cumming,Georgia,cheese,1.8
+Bloomsburg,Pennsylvania,buffalo,12.99
+Clarks Summit,Pennsylvania,hawaiian,16.99
+Clarks Summit,Pennsylvania,veggie,16.9
+Clarks Summit,Pennsylvania,cheese,17.99
+Clarks Summit,Pennsylvania,meat,18.5
+Clarks Summit,Pennsylvania,margherita,16.95
+New York,New York,margherita,16.99
+New York,New York,meat,16.99
+New York,New York,margherita,16.99
+Winston-Salem,North Carolina,cheese,16
+Winston-Salem,North Carolina,cheese,10.5
+New York,New York,cheese,9.49
+New York,New York,buffalo,15.49
+New York,New York,margherita,14
+Royersford,Pennsylvania,cheese,6.75
+Royersford,Pennsylvania,meat,26.99
+San Diego,California,cheese,12.99
+San Diego,California,veggie,12.99
+San Diego,California,cheese,14.99
+San Diego,California,cheese,12.99
+San Diego,California,cheese,8.99
+New York,New York,cheese,6.95
+New York,New York,buffalo,23.75
+New York,New York,bbq chicken,23.75
+New York,New York,cheese,16
+New York,New York,margherita,23.75
+New York,New York,hawaiian,19.75
+New York,New York,hawaiian,24.75
+Daly City,California,meat,8.99
+Daly City,California,veggie,8.99
+Daly City,California,meat,8.99
+Daly City,California,bbq chicken,8.99
+Daly City,California,veggie,6.99
+Huntington Beach,California,cheese,9.49
+Huntington Beach,California,veggie,15.5
+Huntington Beach,California,meat,15.5
+Huntington Beach,California,cheese,10.25
+Huntington Beach,California,cheese,6.4
+New York,New York,pepperoni,14.99
+New York,New York,buffalo,14.99
+New York,New York,hawaiian,14.99
+Milan,Illinois,veggie,9.99
+Milan,Illinois,margherita,4.49
+Cupertino,California,bbq chicken,16
+Cupertino,California,meat,16
+Saint Peters,Missouri,meat,14
+New Baltimore,Michigan,meat,10.55
+Clinton Township,Michigan,bbq chicken,9.56
+Ambler,Pennsylvania,cheese,8.99
+Ambler,Pennsylvania,veggie,12.99
+Ambler,Pennsylvania,cheese,6.99
+Ambler,Pennsylvania,hawaiian,12.99
+Ambler,Pennsylvania,bbq chicken,12.99
+Brooklyn,New York,buffalo,27
+Jacksonville,Florida,bbq chicken,8.99
+Jacksonville,Florida,cheese,9.99
+Jacksonville,Florida,veggie,8.99
+Jacksonville,Florida,cheese,5.99
+Jacksonville,Florida,meat,8.99
+Jacksonville,Florida,bbq chicken,8.99
+Garden City,New York,buffalo,3.95
+Garden City,New York,veggie,3.5
+Buffalo,New York,cheese,4.99
+Phoenix,Arizona,cheese,5.75
+South Elgin,Illinois,cheese,10.99
+Frisco,Texas,buffalo,13.95
+Columbus,Ohio,meat,15.45
+Columbus,Ohio,pepperoni,13.25
+Columbus,Ohio,margherita,13.65
+Rome,Georgia,margherita,9.79
+Rome,Georgia,cheese,9.89
+Dallas,Texas,veggie,13.5
+Bettendorf,Iowa,cheese,14.8
+Bettendorf,Iowa,cheese,21.3
+Bettendorf,Iowa,cheese,14.45
+Bettendorf,Iowa,cheese,8.4
+Oakland,California,bbq chicken,28.1
+Oakland,California,bbq chicken,24.35
+Oakland,California,bbq chicken,20.1
+Oakland,California,bbq chicken,25.1
+Seattle,Washington,cheese,3.49
+Durham,North Carolina,cheese,10
+Durham,North Carolina,cheese,13
+Durham,North Carolina,cheese,13
+Franklin,Tennessee,cheese,4.99
+Woodland Hills,California,cheese,17.99
+Woodland Hills,California,cheese,8.99
+Rome,New York,cheese,28.95
+Myrtle Beach,South Carolina,cheese,11.95
+Charlotte,North Carolina,pepperoni,9.99
+Charlotte,North Carolina,veggie,8.99
+Eau Claire,Wisconsin,meat,12.75
+Albany,New York,buffalo,11.99
+Bensenville,Illinois,cheese,9
+Bensenville,Illinois,cheese,9
+Wilmington,North Carolina,cheese,12.75
+Latrobe,Pennsylvania,bbq chicken,18.75
+Latrobe,Pennsylvania,buffalo,18.75
+Buffalo,New York,cheese,23
+Buffalo,New York,cheese,10.25
+Buffalo,New York,hawaiian,15.05
+San Francisco,California,cheese,15
+Louisville,Kentucky,cheese,15.25
+Louisville,Kentucky,bbq chicken,23.25
+Raleigh,North Carolina,cheese,2.25
+Raleigh,North Carolina,bbq chicken,14.99
+Ellicott City,Maryland,cheese,8.99
+Brooklyn,New York,cheese,13
+Brooklyn,New York,meat,22
+DeKalb,Illinois,meat,26.75
+DeKalb,Illinois,veggie,26.75
+Pompano Beach,Florida,veggie,13.95
+Plano,Texas,hawaiian,20
+Plano,Texas,cheese,12
+Plano,Texas,cheese,18
+Lindenhurst,New York,bbq chicken,22
+Albany,New York,hawaiian,15.99
+Albany,New York,buffalo,16.99
+Baltimore,Maryland,cheese,7.99
+Baltimore,Maryland,veggie,12
+Baltimore,Maryland,meat,12
+Glendale Heights,Illinois,veggie,12.55
+Glendale Heights,Illinois,cheese,15.95
+Glendale Heights,Illinois,margherita,12.55
+Glendale Heights,Illinois,cheese,15.95
+Glendale Heights,Illinois,cheese,8.95
+Glendale Heights,Illinois,hawaiian,10.75
+Glendale Heights,Illinois,meat,12.55
+Glendale Heights,Illinois,bbq chicken,10.75
+Los Angeles,California,cheese,8
+Los Gatos,California,meat,7.99
+Los Gatos,California,hawaiian,5.99
+Boulder,Colorado,cheese,12
+Boulder,Colorado,meat,12
+Boulder,Colorado,buffalo,12
+Boulder,Colorado,cheese,12
+Grand Rapids,Michigan,meat,15
+Grand Rapids,Michigan,pepperoni,10.5
+Grand Rapids,Michigan,pepperoni,11.5
+Grand Rapids,Michigan,cheese,4
+Grand Rapids,Michigan,hawaiian,12
+Atlanta,Georgia,cheese,5.99
+New Baltimore,Michigan,cheese,4.95
+New Baltimore,Michigan,hawaiian,8.95
+New Baltimore,Michigan,meat,13.95
+New Baltimore,Michigan,hawaiian,13.95
+New Baltimore,Michigan,cheese,8.95
+Wichita,Kansas,hawaiian,11.99
+Wichita,Kansas,cheese,3.99
+Vancouver,Washington,meat,19.99
+Vancouver,Washington,pepperoni,12.99
+Vancouver,Washington,meat,16.99
+Vancouver,Washington,hawaiian,14.49
+Vancouver,Washington,pepperoni,15.99
+Vancouver,Washington,hawaiian,14.49
+Vancouver,Washington,pepperoni,15.99
+Vancouver,Washington,meat,19.99
+Indianapolis,Indiana,cheese,8.99
+Orlando,Florida,bbq chicken,13.95
+Orlando,Florida,pepperoni,19.99
+Orlando,Florida,cheese,8.99
+Orlando,Florida,meat,13.95
+Orlando,Florida,cheese,16.99
+Bentonville,Arkansas,buffalo,11.99
+Bentonville,Arkansas,hawaiian,12.49
+Bentonville,Arkansas,bbq chicken,11.99
+Lawrenceville,Georgia,cheese,2.25
+Lawrenceville,Georgia,buffalo,4.09
+Lawrenceville,Georgia,margherita,10
+Lawrenceville,Georgia,cheese,1.99
+Lawrenceville,Georgia,margherita,14.99
+Lawrenceville,Georgia,buffalo,10.05
+Lawrenceville,Georgia,margherita,10.05
+Lawrenceville,Georgia,buffalo,10
+Scottsdale,Arizona,cheese,59.95
+Brooklyn,New York,hawaiian,26
+Brooklyn,New York,buffalo,25
+Brooklyn,New York,veggie,28
+Brooklyn,New York,bbq chicken,25
+Brooklyn,New York,pepperoni,24
+New Lenox,Illinois,veggie,12.75
+New Lenox,Illinois,bbq chicken,12.75
+New Lenox,Illinois,cheese,12.75
+Orlando,Florida,cheese,5.92
+Chicago,Illinois,margherita,7.95
+Chicago,Illinois,buffalo,11
+Fountain Valley,California,cheese,1.49
+Trenton,Ohio,pepperoni,9.99
+Cincinnati,Ohio,pepperoni,9.99
+Farmington,Minnesota,cheese,9.99
+Des Plaines,Illinois,cheese,9.99
+Des Plaines,Illinois,pepperoni,9.99
+Columbus,Ohio,pepperoni,10.99
+Mesa,Arizona,cheese,25.49
+Mesa,Arizona,cheese,23
+Auburn,Indiana,meat,7.99
+Auburn,Indiana,cheese,4.99
+Auburn,Indiana,meat,8.99
+Arlington Heights,Illinois,margherita,12.5
+Denver,Colorado,margherita,8
+Denver,Colorado,margherita,8
+Santa Clarita,California,meat,7.3
+Austin,Texas,cheese,6.99
+Austin,Texas,pepperoni,5.99
+Austin,Texas,cheese,3.5
+Austin,Texas,cheese,9.99
+San Diego,California,buffalo,10.5
+San Francisco,California,cheese,22
+Abingdon,Virginia,veggie,14.7
+Abingdon,Virginia,cheese,11.75
+Abingdon,Virginia,hawaiian,15.35
+Abingdon,Virginia,buffalo,12.65
+Abingdon,Virginia,veggie,8.95
+Abingdon,Virginia,buffalo,17.75
+Abingdon,Virginia,hawaiian,7.6
+Abingdon,Virginia,hawaiian,12.35
+Abingdon,Virginia,cheese,5.75
+Abingdon,Virginia,veggie,11.25
+Abingdon,Virginia,cheese,5.75
+Abingdon,Virginia,buffalo,8.6
+Abingdon,Virginia,hawaiian,7.6
+Colorado Springs,Colorado,cheese,15.19
+Colorado Springs,Colorado,bbq chicken,15.19
+Colorado Springs,Colorado,meat,18.15
+Colorado Springs,Colorado,cheese,10.59
+Colorado Springs,Colorado,meat,15.19
+Phoenix,Arizona,pepperoni,16
+Phoenix,Arizona,cheese,14
+Smithtown,New York,buffalo,20.95
+Boca Raton,Florida,bbq chicken,14.29
+Boca Raton,Florida,margherita,13.99
+Boca Raton,Florida,cheese,12.79
+Boca Raton,Florida,pepperoni,13.99
+Boca Raton,Florida,veggie,11.95
+Boca Raton,Florida,cheese,12.79
+Boca Raton,Florida,bbq chicken,11.95
+Boca Raton,Florida,bbq chicken,5.99
+Boca Raton,Florida,pepperoni,13.99
+Boca Raton,Florida,pepperoni,11.95
+Boca Raton,Florida,pepperoni,11.95
+New York,New York,veggie,28.75
+New York,New York,meat,23.75
+New York,New York,meat,28.75
+Scottsdale,Arizona,margherita,10.95
+Scottsdale,Arizona,cheese,5.95
+Scottsdale,Arizona,buffalo,13.95
+Scottsdale,Arizona,pepperoni,13.95
+Scottsdale,Arizona,bbq chicken,13.95
+Saint Louis,Missouri,margherita,19.8
+El Paso,Texas,cheese,7.49
+San Francisco,California,hawaiian,4.5
+San Francisco,California,bbq chicken,22.99
+San Francisco,California,pepperoni,4.35
+San Francisco,California,pepperoni,3.75
+Oyster Bay,New York,cheese,11.99
+Northridge,California,veggie,10.95
+Northridge,California,cheese,7.5
+Northridge,California,meat,10.5
+Jamison,Pennsylvania,cheese,10.75
+Jamison,Pennsylvania,buffalo,10.75
+Jamison,Pennsylvania,bbq chicken,10.75
+Jamison,Pennsylvania,cheese,8.9
+Jamison,Pennsylvania,veggie,10.75
+Jamison,Pennsylvania,cheese,8.99
+Tuckahoe,New York,buffalo,17.95
+Tuckahoe,New York,hawaiian,17.95
+Tuckahoe,New York,bbq chicken,17.95
+Sacramento,California,hawaiian,13
+Sacramento,California,hawaiian,14
+Sacramento,California,veggie,14
+Sacramento,California,cheese,4
+Sacramento,California,pepperoni,10
+Sacramento,California,meat,14
+Sacramento,California,pepperoni,4
+Muncie,Indiana,cheese,12.99
+Muncie,Indiana,meat,12.99
+Charleston,South Carolina,cheese,16
+Grove City,Ohio,meat,11.05
+Grove City,Ohio,meat,11.05
+Titusville,Florida,veggie,15
+Titusville,Florida,cheese,16
+Lockport,New York,buffalo,13.99
+Lockport,New York,veggie,12.99
+Lockport,New York,cheese,13.99
+Lockport,New York,meat,14.99
+Sedona,Arizona,cheese,12.95
+Sedona,Arizona,cheese,4.95
+Seattle,Washington,cheese,17.99
+Seattle,Washington,cheese,12.99
+Winchester,Virginia,bbq chicken,9.75
+Newark,Delaware,cheese,2
+Fairless Hills,Pennsylvania,buffalo,15.25
+Fairless Hills,Pennsylvania,buffalo,8.5
+Fairless Hills,Pennsylvania,buffalo,13.5
+Philadelphia,Pennsylvania,pepperoni,3.75
+Philadelphia,Pennsylvania,veggie,4.25
+Philadelphia,Pennsylvania,bbq chicken,4.25
+Philadelphia,Pennsylvania,buffalo,4.25
+Saint Paul,Minnesota,veggie,11.5
+Saint Paul,Minnesota,cheese,6.5
+South Bend,Indiana,bbq chicken,13.9
+South Bend,Indiana,cheese,3
+South Bend,Indiana,cheese,2.75
+South Bend,Indiana,veggie,9
+South Bend,Indiana,meat,9.75
+River Grove,Illinois,margherita,12.45
+River Grove,Illinois,cheese,13.95
+River Grove,Illinois,cheese,12.75
+River Grove,Illinois,cheese,14.45
+River Grove,Illinois,hawaiian,12.45
+Lincoln,Nebraska,cheese,11.29
+Hamburg,New York,hawaiian,16.99
+Hamburg,New York,cheese,2
+Hamburg,New York,veggie,29.99
+Hamburg,New York,cheese,16.99
+Hamburg,New York,cheese,13.99
+Hamburg,New York,cheese,22.75
+Hamburg,New York,cheese,29.99
+Hamburg,New York,veggie,13.99
+Hamburg,New York,cheese,22.75
+Hamburg,New York,cheese,11.99
+Hamburg,New York,hawaiian,6.99
+Hamburg,New York,cheese,4.95
+Hamburg,New York,hawaiian,19.99
+Hamburg,New York,cheese,4.99
+Hamburg,New York,hawaiian,29.99
+Hamburg,New York,veggie,16.99
+Hamburg,New York,cheese,6.99
+Hamburg,New York,veggie,29.99
+Clarence Center,New York,bbq chicken,27.55
+Clarence Center,New York,cheese,7.65
+Copiague,New York,cheese,12
+West Babylon,New York,margherita,10.95
+West Babylon,New York,buffalo,12.5
+Schertz,Texas,cheese,13.75
+Schertz,Texas,pepperoni,1.85
+Schertz,Texas,cheese,10.95
+Dobbs Ferry,New York,margherita,10.95
+Dobbs Ferry,New York,buffalo,11.95
+Dobbs Ferry,New York,cheese,11.95
+Casselberry,Florida,veggie,13.95
+Casselberry,Florida,meat,13.95
+Las Cruces,New Mexico,meat,15.95
+Plainview,New York,margherita,6.95
+Plainview,New York,margherita,6.95
+Plainview,New York,veggie,16.95
+Brooklyn,New York,margherita,12
+Friendswood,Texas,cheese,11.99
+San Francisco,California,cheese,13.99
+San Francisco,California,hawaiian,16.99
+San Francisco,California,cheese,13.99
+Littleton,Colorado,pepperoni,17.5
+Littleton,Colorado,margherita,17.5
+Littleton,Colorado,cheese,10.75
+Littleton,Colorado,buffalo,17.5
+West Valley City,Utah,veggie,14
+West Valley City,Utah,hawaiian,11
+West Valley City,Utah,pepperoni,4
+West Valley City,Utah,hawaiian,12
+Fountain Valley,California,cheese,1.85
+Henrico,Virginia,cheese,3.1
+Henrico,Virginia,cheese,12.85
+Henrico,Virginia,cheese,9.45
+Henrico,Virginia,cheese,4
+Greensboro,North Carolina,hawaiian,11.95
+Greensboro,North Carolina,bbq chicken,11.95
+Bristow,Virginia,cheese,9.5
+Leesburg,Virginia,buffalo,14.99
+Leesburg,Virginia,bbq chicken,14.99
+Leesburg,Virginia,buffalo,15.99
+Leesburg,Virginia,hawaiian,12.99
+Leesburg,Virginia,bbq chicken,15.99
+Leesburg,Virginia,cheese,2.19
+Upland,California,cheese,10.5
+Upland,California,cheese,24
+Upland,California,cheese,17.5
+Hudsonville,Michigan,cheese,6.5
+Fox Lake,Illinois,pepperoni,7.45
+Canonsburg,Pennsylvania,bbq chicken,9.49
+Evansville,Indiana,veggie,9.99
+New York,New York,cheese,17.5
+New York,New York,margherita,17
+San Antonio,Texas,cheese,2.99
+Buffalo,New York,pepperoni,5.85
+Buffalo,New York,veggie,5.85
+Buffalo,New York,meat,5.85
+Phoenix,Arizona,pepperoni,5.5
+Phoenix,Arizona,pepperoni,4.25
+Chicago,Illinois,veggie,13.75
+Chicago,Illinois,hawaiian,13.75
+Chicago,Illinois,cheese,13.75
+Chicago,Illinois,cheese,13.75
+Chicago,Illinois,veggie,18.15
+Chicago,Illinois,cheese,10.95
+Chicago,Illinois,hawaiian,14
+Chicago,Illinois,cheese,12.75
+Cedar Rapids,Iowa,veggie,9.99
+Gatlinburg,Tennessee,cheese,12.99
+Gatlinburg,Tennessee,cheese,12.99
+Orlando,Florida,hawaiian,13.99
+Saint Clair Shores,Michigan,cheese,1.25
+Saint Clair Shores,Michigan,pepperoni,1.25
+Saint Clair Shores,Michigan,bbq chicken,10.25
+Poughkeepsie,New York,veggie,13.75
+Chicago,Illinois,meat,24.95
+Chicago,Illinois,cheese,10.5
+Chicago,Illinois,veggie,16.25
+Chicago,Illinois,cheese,12.5
+Chicago,Illinois,meat,25.25
+Chicago,Illinois,veggie,27
+Chicago,Illinois,hawaiian,17
+Chicago,Illinois,veggie,27
+Scottsdale,Arizona,margherita,12
+Annapolis,Maryland,cheese,12.99
+Annapolis,Maryland,cheese,9.99
+Annapolis,Maryland,cheese,14.99
+Houston,Texas,meat,17.5
+Anderson,Indiana,cheese,5.25
+McDonough,Georgia,buffalo,4
+McDonough,Georgia,buffalo,3.75
+Sykesville,Maryland,cheese,19.45
+DeLand,Florida,meat,10.99
+Flagstaff,Arizona,cheese,8
+Ossining,New York,cheese,10
+East Rochester,New York,cheese,7.95
+Carlisle,Pennsylvania,bbq chicken,15
+Carlisle,Pennsylvania,meat,15
+Carlisle,Pennsylvania,cheese,19.99
+Carlisle,Pennsylvania,buffalo,15
+Provo,Utah,cheese,5.79
+Conyers,Georgia,cheese,2.29
+Conyers,Georgia,buffalo,9.99
+Chicago,Illinois,pepperoni,8.45
+Chicago,Illinois,cheese,8.45
+Oak Lawn,Illinois,cheese,4.75
+Bethlehem,Pennsylvania,veggie,12.25
+Yelm,Washington,cheese,13
+Yelm,Washington,margherita,13
+Murrieta,California,cheese,8.99
+Murrieta,California,cheese,12.99
+New York,New York,margherita,11
+New York,New York,hawaiian,14
+Harrisburg,Pennsylvania,veggie,13.75
+Harrisburg,Pennsylvania,margherita,10.5
+Pearland,Texas,meat,6.99
+Houston,Texas,cheese,9.99
+Covington,Georgia,cheese,9.99
+Covington,Georgia,margherita,8.99
+Carmel,Indiana,cheese,13.5
+Carmel,Indiana,cheese,7.25
+Knoxville,Tennessee,buffalo,17
+Bloomington,Indiana,cheese,9.75
+Bloomington,Indiana,cheese,9.85
+Tempe,Arizona,cheese,23
+Salt Lake City,Utah,pepperoni,10.5
+Salt Lake City,Utah,bbq chicken,14
+Salt Lake City,Utah,hawaiian,13
+Westerville,Ohio,bbq chicken,6.5
+Westerville,Ohio,bbq chicken,6.5
+Kissimmee,Florida,cheese,6.49
+Boca Raton,Florida,cheese,2.6
+Virginia Beach,Virginia,cheese,2.04
+Tampa,Florida,cheese,8.59
+Saint Paul,Minnesota,cheese,10.99
+Saint Paul,Minnesota,veggie,14.95
+Buffalo,New York,cheese,11.99
+Evanston,Illinois,meat,18.5
+Niles,Illinois,hawaiian,21.25
+Niles,Illinois,hawaiian,21.25
+Niles,Illinois,bbq chicken,21
+Mount Pleasant,South Carolina,cheese,12.45
+Bronx,New York,cheese,12
+Bronx,New York,hawaiian,17
+Key West,Florida,cheese,18
+Key West,Florida,veggie,18
+Glendale,Arizona,cheese,5
+Glendale,Arizona,meat,8
+Glendale,Arizona,buffalo,12.95
+Atlanta,Georgia,cheese,16
+Virginia Beach,Virginia,cheese,5.95
+Cleveland,Ohio,cheese,7
+Cleveland,Ohio,veggie,17.1
+Cleveland,Ohio,cheese,15
+Cleveland,Ohio,meat,11.75
+Cleveland,Ohio,margherita,8.75
+White Plains,New York,buffalo,16
+White Plains,New York,hawaiian,16
+Fort Collins,Colorado,pepperoni,11
+Indianapolis,Indiana,cheese,4.95
+Indianapolis,Indiana,cheese,4.9
+Pleasantville,New York,cheese,13.5
+Pleasantville,New York,cheese,14
+Brooklyn,New York,hawaiian,17
+New York,New York,buffalo,15.95
+New York,New York,buffalo,3.5
+New York,New York,cheese,2.5
+New York,New York,bbq chicken,15.95
+New York,New York,meat,3.5
+New York,New York,margherita,15.95
+New York,New York,cheese,19.5
+New York,New York,hawaiian,3.5
+New York,New York,margherita,3.5
+New York,New York,cheese,17.95
+New York,New York,meat,15.95
+Indianapolis,Indiana,hawaiian,12
+Indianapolis,Indiana,pepperoni,11.5
+Indianapolis,Indiana,hawaiian,13
+Indianapolis,Indiana,pepperoni,11.5
+Indianapolis,Indiana,meat,15
+Carmel,Indiana,cheese,3
+Carmel,Indiana,veggie,14
+Carmel,Indiana,hawaiian,14
+Sacramento,California,pepperoni,12
+Sacramento,California,pepperoni,10
+Sacramento,California,hawaiian,11.5
+Sacramento,California,meat,16
+Sacramento,California,meat,14
+Sacramento,California,meat,16
+Jamaica,New York,pepperoni,2.75
+Brooklyn,New York,meat,12
+Floral Park,New York,cheese,22
+San Diego,California,cheese,12
+Brooklyn,New York,buffalo,24
+Brooklyn,New York,cheese,13
+Brooklyn,New York,bbq chicken,20
+Brooklyn,New York,meat,3.75
+Brooklyn,New York,veggie,3.25
+Brooklyn,New York,buffalo,21
+Brooklyn,New York,cheese,21
+Duluth,Georgia,bbq chicken,5.69
+Duluth,Georgia,cheese,7.99
+Herndon,Virginia,meat,12.95
+Herndon,Virginia,meat,12.95
+Phoenixville,Pennsylvania,meat,12.65
+Phoenixville,Pennsylvania,hawaiian,12.75
+Phoenixville,Pennsylvania,cheese,12.65
+Phoenixville,Pennsylvania,buffalo,12.65
+Minneapolis,Minnesota,cheese,8.59
+Henrico,Virginia,cheese,4.99
+Henrico,Virginia,pepperoni,4.99
+Scarsdale,New York,bbq chicken,20.95
+Scarsdale,New York,buffalo,21.45
+Scarsdale,New York,bbq chicken,20.45
+Scarsdale,New York,veggie,23.95
+Scarsdale,New York,cheese,20.45
+Scarsdale,New York,hawaiian,20.95
+Scarsdale,New York,margherita,21.45
+Ormond Beach,Florida,hawaiian,14.95
+New Hope,Pennsylvania,cheese,2.5
+New Hope,Pennsylvania,cheese,2.5
+Hammond,Indiana,hawaiian,4.5
+Morrisville,North Carolina,margherita,15.09
+Charlotte,North Carolina,cheese,3
+Philadelphia,Pennsylvania,hawaiian,10.75
+Philadelphia,Pennsylvania,pepperoni,4.05
+Philadelphia,Pennsylvania,bbq chicken,10.25
+Charlotte,North Carolina,buffalo,9
+Mesa,Arizona,pepperoni,12.75
+Mesa,Arizona,meat,19.95
+Mesa,Arizona,pepperoni,18.5
+Northbrook,Illinois,cheese,10.65
+Northbrook,Illinois,cheese,11.75
+Chicago,Illinois,hawaiian,17
+Chicago,Illinois,hawaiian,17
+Mount Prospect,Illinois,margherita,15.95
+Clermont,Florida,meat,19.95
+Clermont,Florida,meat,19.95
+Clermont,Florida,cheese,1.75
+Garden Grove,California,cheese,7.99
+Wickliffe,Ohio,buffalo,7.59
+Wickliffe,Ohio,hawaiian,8.39
+Wickliffe,Ohio,margherita,9.99
+Wickliffe,Ohio,hawaiian,9.99
+Rancho Cucamonga,California,margherita,12.99
+Rancho Cucamonga,California,cheese,10.99
+Rancho Cucamonga,California,meat,10.99
+Rancho Cucamonga,California,veggie,10.99
+Rancho Cucamonga,California,bbq chicken,10.99
+Rancho Cucamonga,California,veggie,12.99
+Rancho Cucamonga,California,cheese,8.49
+Rancho Cucamonga,California,cheese,10.99
+Germantown,Maryland,cheese,11.99
+Spring,Texas,cheese,0.99
+Saint Cloud,Florida,cheese,8.95
+Saint Cloud,Florida,buffalo,7.95
+Saint Augustine,Florida,cheese,10
+Cumming,Georgia,cheese,5.95
+Cumming,Georgia,cheese,4.99
+El Segundo,California,bbq chicken,8.99
+El Segundo,California,pepperoni,5.99
+El Segundo,California,margherita,8.99
+Richardson,Texas,cheese,4.99
+Richardson,Texas,pepperoni,4.99
+San Carlos,California,bbq chicken,11.99
+San Carlos,California,cheese,17.6
+San Carlos,California,hawaiian,16.6
+San Carlos,California,meat,18.1
+San Carlos,California,cheese,11.99
+San Carlos,California,meat,12.85
+San Carlos,California,meat,11.99
+Phoenixville,Pennsylvania,margherita,12.5
+Philadelphia,Pennsylvania,pepperoni,6.25
+Springfield,Missouri,cheese,6
+Tacoma,Washington,bbq chicken,15.59
+Tacoma,Washington,bbq chicken,15.59
+Syracuse,New York,cheese,24.95
+Columbia,South Carolina,cheese,10.45
+Columbia,South Carolina,cheese,9.95
+Charlotte,North Carolina,buffalo,9
+Escondido,California,bbq chicken,16.99
+Escondido,California,meat,16.99
+Newnan,Georgia,buffalo,9.5
+Newnan,Georgia,margherita,8.75
+Toledo,Ohio,cheese,12.75
+Toledo,Ohio,hawaiian,9.95
+Toledo,Ohio,bbq chicken,9.95
+Toledo,Ohio,veggie,9.95
+Lakeland,Florida,cheese,16.99
+Lakeland,Florida,cheese,4.5
+Lakeland,Florida,pepperoni,4.5
+Los Angeles,California,cheese,15.95
+Los Angeles,California,cheese,15.95
+Albany,New York,cheese,7.41
+Minneapolis,Minnesota,cheese,8.59
+New York,New York,cheese,2
+San Francisco,California,hawaiian,10.99
+Mesquite,Texas,cheese,1.99
+Boca Raton,Florida,veggie,14.25
+Boca Raton,Florida,cheese,14.25
+Boca Raton,Florida,veggie,14.25
+Boca Raton,Florida,cheese,14.25
+Dallas,Texas,cheese,12.75
+Frankfort,Illinois,cheese,17.95
+Hamtramck,Michigan,veggie,23
+Hamtramck,Michigan,meat,10
+Detroit,Michigan,buffalo,6.49
+Detroit,Michigan,bbq chicken,6.49
+Detroit,Michigan,cheese,9.99
+Dallas,Texas,cheese,25.75
+Dallas,Texas,cheese,25.75
+Dallas,Texas,hawaiian,25.75
+Dallas,Texas,meat,25.75
+Dallas,Texas,cheese,25.75
+New York,New York,cheese,7.95
+Clearwater,Florida,margherita,9.95
+Hollywood,Florida,margherita,15.25
+Fort Worth,Texas,cheese,5.99
+Columbus,Ohio,cheese,8.5
+Cocoa,Florida,veggie,16.95
+Cocoa,Florida,veggie,19.95
+Houston,Texas,buffalo,15.25
+East Lansing,Michigan,meat,8.99
+East Lansing,Michigan,meat,8.99
+South Bend,Indiana,cheese,14
+South Bend,Indiana,cheese,14
+Grand Forks,North Dakota,buffalo,14.99
+Dacula,Georgia,cheese,1.95
+Dacula,Georgia,veggie,15.35
+Indianapolis,Indiana,cheese,4.69
+Indianapolis,Indiana,pepperoni,4.69
+Chicago,Illinois,cheese,14.25
+Chicago,Illinois,cheese,16.35
+Yonkers,New York,hawaiian,20
+Yonkers,New York,veggie,20
+Jacksonville,Florida,buffalo,18.75
+Jacksonville,Florida,bbq chicken,18.75
+Buffalo,New York,cheese,8.89
+Buffalo,New York,cheese,10.25
+Buffalo,New York,pepperoni,4.35
+Buffalo,New York,margherita,10.25
+Buffalo,New York,veggie,10.39
+Buffalo,New York,veggie,11.79
+Flushing,New York,cheese,22
+Flushing,New York,veggie,22
+Flushing,New York,margherita,23
+Philadelphia,Pennsylvania,cheese,10
+Lexington,South Carolina,cheese,5.99
+Lexington,South Carolina,pepperoni,5.99
+Wheaton,Illinois,hawaiian,11
+Yakima,Washington,bbq chicken,27.55
+Augusta,Georgia,cheese,9.99
+Augusta,Georgia,cheese,9.99
+Jefferson City,Tennessee,cheese,5.25
+Charleston,West Virginia,cheese,7.99
+Charleston,West Virginia,cheese,11.99
+Charleston,West Virginia,cheese,5.99
+Charleston,West Virginia,cheese,9.99
+Villa Rica,Georgia,buffalo,8.55
+Villa Rica,Georgia,cheese,8.95
+Villa Rica,Georgia,cheese,10.07
+Marietta,Georgia,buffalo,9.5
+Marietta,Georgia,cheese,9.53
+Marietta,Georgia,margherita,8.99
+Lewisville,Texas,meat,15.99
+Hollywood,Florida,meat,19
+Tampa,Florida,margherita,19.49
+Tampa,Florida,veggie,22.59
+Indianapolis,Indiana,cheese,13.99
+Indianapolis,Indiana,cheese,6.99
+Indianapolis,Indiana,cheese,4.99
+Saint Louis,Missouri,meat,9.59
+Saint Louis,Missouri,hawaiian,9.59
+Philadelphia,Pennsylvania,cheese,7.95
+Mesa,Arizona,pepperoni,3.99
+Denver,Colorado,cheese,4.75
+Indianapolis,Indiana,cheese,4.29
+Gurnee,Illinois,cheese,8.45
+Georgetown,Kentucky,pepperoni,6.25
+Georgetown,Kentucky,pepperoni,5.59
+Springfield,Missouri,cheese,6.5
+Dallas,Georgia,buffalo,12.95
+Dallas,Georgia,hawaiian,12.95
+Toledo,Ohio,veggie,11
+Westminster,California,cheese,4
+Beaufort,South Carolina,cheese,15
+South Bend,Indiana,meat,9
+South Bend,Indiana,veggie,9
+Saint Paul,Minnesota,cheese,8.95
+Eau Claire,Wisconsin,cheese,7.99
+Eau Claire,Wisconsin,hawaiian,7.99
+Eau Claire,Wisconsin,veggie,7.99
+Huntington Beach,California,cheese,6.95
+Huntington Beach,California,pepperoni,6.95
+Huntington Beach,California,cheese,6.95
+Huntington Beach,California,pepperoni,6.95
+Huntington Beach,California,meat,11.45
+Round Rock,Texas,margherita,12.3
+Plano,Texas,cheese,5.99
+Goodlettsville,Tennessee,cheese,4.99
+Goodlettsville,Tennessee,cheese,4.99
+Rocklin,California,cheese,5
+Rocklin,California,cheese,5
+Greenville,South Carolina,cheese,11
+Greenville,South Carolina,cheese,13
+Rolla,Missouri,margherita,10.29
+Rochester,Michigan,meat,15.99
+Rochester,Michigan,cheese,8.5
+Dublin,Georgia,cheese,9.29
+Dublin,Georgia,buffalo,9.29
+Pflugerville,Texas,cheese,17.99
+Pflugerville,Texas,veggie,18.99
+Pflugerville,Texas,hawaiian,17.99
+Pflugerville,Texas,margherita,18.99
+Pflugerville,Texas,margherita,18.99
+Pflugerville,Texas,hawaiian,17.99
+Pflugerville,Texas,veggie,18.99
+Pflugerville,Texas,hawaiian,17.99
+Pflugerville,Texas,meat,18.99
+Jasper,Indiana,cheese,3.99
+Jasper,Indiana,pepperoni,3.99
+Rock Island,Illinois,cheese,21.5
+Rock Island,Illinois,cheese,23
+Rock Island,Illinois,cheese,20
+Rock Island,Illinois,cheese,24
+Rock Island,Illinois,cheese,26.5
+Rock Island,Illinois,cheese,19
+Rock Island,Illinois,cheese,14
+San Antonio,Texas,cheese,7.99
+Troy,Illinois,bbq chicken,10.79
+Troy,Illinois,meat,18.29
+Glendale,Arizona,meat,5.5
+Glendale,Arizona,pepperoni,4.25
+Martinsburg,West Virginia,cheese,21.99
+New Rochelle,New York,cheese,5
+Tucson,Arizona,cheese,5
+Tucson,Arizona,meat,11.99
+Nashville,Tennessee,hawaiian,20.99
+Nashville,Tennessee,cheese,20.99
+Nashville,Tennessee,veggie,14.99
+Denver,Colorado,cheese,5
+Morgan Hill,California,margherita,7.99
+Morgan Hill,California,cheese,11.99
+Morgan Hill,California,cheese,24.99
+Morgan Hill,California,cheese,6.99
+Prospect,Kentucky,cheese,4.99
+Prospect,Kentucky,cheese,2.19
+Maumelle,Arkansas,cheese,7.99
+Marshall,Texas,cheese,14
+Marshall,Texas,cheese,11
+Marshall,Texas,cheese,14
+Marshall,Texas,bbq chicken,15
+Buffalo,New York,cheese,47.95
+Buffalo,New York,cheese,38.95
+Buffalo,New York,meat,15.25
+New York,New York,cheese,8
+New York,New York,cheese,11
+Belmont,California,margherita,16
+Belmont,California,margherita,16
+Reno,Nevada,buffalo,8.49
+Indianapolis,Indiana,cheese,11.35
+Grand Haven,Michigan,cheese,3.5
+Austin,Texas,cheese,11.5
+Aurora,Colorado,bbq chicken,15
+Cleveland,Ohio,buffalo,10.99
+Farmerville,Louisiana,veggie,16.99
+Clinton Township,Michigan,margherita,8
+Austin,Texas,margherita,12.99
+Oklahoma City,Oklahoma,cheese,5.49
+Oklahoma City,Oklahoma,cheese,3.49
+New York,New York,cheese,1
+Pataskala,Ohio,bbq chicken,15.8
+Sandy,Oregon,pepperoni,15.99
+Kendallville,Indiana,meat,15.95
+Lubbock,Texas,cheese,20.5
+New York,New York,meat,14.99
+New York,New York,cheese,14.99
+Florence,Kentucky,cheese,8.19
+Rome,New York,cheese,13
+Baltimore,Maryland,pepperoni,5.99
+Baltimore,Maryland,cheese,9.99
+Altoona,Pennsylvania,margherita,14.99
+Duvall,Washington,cheese,4.59
+Duvall,Washington,pepperoni,4.59
+Richmond,Virginia,buffalo,13
+Eugene,Oregon,cheese,27.55
+Eugene,Oregon,meat,27.55
+Brooklyn,New York,cheese,2.5
+Brooklyn,New York,buffalo,19.95
+Chicago,Illinois,cheese,9.95
+Pennsburg,Pennsylvania,buffalo,14.49
+Niles,Illinois,cheese,12.5
+Niles,Illinois,margherita,17
+Niles,Illinois,cheese,14.25
+Niles,Illinois,cheese,12.75
+Thornwood,New York,pepperoni,13
+Thornwood,New York,meat,13
+Thornwood,New York,meat,4.5
+Red Hook,New York,buffalo,10.5
+Las Vegas,Nevada,buffalo,16.99
+Scranton,Pennsylvania,cheese,14.75
+Scranton,Pennsylvania,cheese,14.75
+Cleveland,Ohio,cheese,25
+Glendale,Arizona,cheese,8.99
+Glendale,Arizona,margherita,9.99
+Puyallup,Washington,cheese,9.95
+Puyallup,Washington,cheese,5
+Wake Forest,North Carolina,meat,21.95
+Buffalo,New York,cheese,24.75
+Buffalo,New York,pepperoni,24.75
+Buffalo,New York,cheese,10.1
+Saint Charles,Illinois,pepperoni,8.45
+Saint Charles,Illinois,cheese,8.45

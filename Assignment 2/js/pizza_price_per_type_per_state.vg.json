@@ -1,0 +1,29 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 700,
+  "height": 250,
+  "data": {
+    "url": "../data/type_of_pizza_price_per_city.csv"
+  },
+  "transform": [{
+    "filter": "datum.city == 'New York' || datum.city == 'Los Angeles' ||datum.city == 'Chicago' ||datum.city == 'Houston' ||datum.city == 'Philadelphia' ||datum.city == 'San Antonio' "
+  }],
+  "mark": "circle",
+  "encoding": {
+    "x": {
+      "field": "city"
+    },
+    "y": {
+      
+      "aggregate": "mean",
+      "field": "price",
+      "type": "quantitative",
+      "title": "Price"
+    },
+    
+    "color": {
+      "field": "pizza_type"
+      
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Average Price of Popular Pizza Types by Different Cities (sorted by population from high to low)",
+  "data": {
+    "url": "../data/type_of_pizza_price_per_city.csv"
+  },
+  "config": {"background": "aliceblue"},
+  "vconcat": [{
+      "encoding": {
+        "x": {
+          "field": "city",
+          "title": "Cities (sorted by population from high to low)",
+          "type": "nominal",
+          "sort": ["New York", "Los Angeles", "Chicago", "Houston", "Philadelphia", "San Antonio", "San Diego", "Dallas", "Austin"]
+        },
+        "y": {
+          "title": "Average Pizza Price",
+          "aggregate": "mean",
+          "field": "price",
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {"field": "city", "type": "nominal", "title": "City"},
+          {"aggregate": "mean","field": "price", "type": "quantitative", "title": "Average Pizza Price"},
+          {"field": "pizza_type", "type": "nominal", "title": "Pizza Type"}
+        ]
+      },
+      "transform": [{
+        "filter": "datum.city == 'New York' || datum.city ==  'Los Angeles' || datum.city ==  'Chicago' || datum.city ==  'Houston' || datum.city ==  'Philadelphia' || datum.city ==  'Phoenix' || datum.city ==  'San Antonio' || datum.city ==  'San Diego' || datum.city ==  'Dallas' || datum.city ==  'San Jose' || datum.city ==  'Austin' || datum.city ==  'Indianapolis' || datum.city ==  'Jacksonville' || datum.city ==  'San Francisco' || datum.city ==  'Columbus' || datum.city ==  'Charlotte' || datum.city ==  'Fort Worth' || datum.city ==  'Detroit' || datum.city ==  'El Paso' || datum.city ==  'Memphis' || datum.city ==  'Seattle' || datum.city ==  'Denver' || datum.city ==  'Washington' || datum.city ==  'Boston' || datum.city ==  'Nashville-Davidson' || datum.city ==  'Baltimore' || datum.city ==  'Oklahoma City' || datum.city ==  'Louisville/Jefferson County' || datum.city ==  'Portland' || datum.city ==  'Las Vegas' || datum.city ==  'Milwaukee' || datum.city ==  'Albuquerque' || datum.city ==  'Tucson' || datum.city ==  'Fresno' || datum.city ==  'Sacramento' || datum.city ==  'Long Beach' || datum.city ==  'Kansas City' || datum.city ==  'Mesa' || datum.city ==  'Virginia Beach' || datum.city ==  'Atlanta' || datum.city ==  'Colorado Springs' || datum.city ==  'Omaha' || datum.city ==  'Raleigh' || datum.city ==  'Miami' || datum.city ==  'Oakland' || datum.city ==  'Minneapolis' || datum.city ==  'Tulsa' || datum.city ==  'Cleveland' || datum.city ==  'Wichita' || datum.city ==  'Arlington' || datum.city ==  'New Orleans' || datum.city ==  'Bakersfield' || datum.city ==  'Tampa' || datum.city ==  'Honolulu' || datum.city ==  'Aurora' || datum.city ==  'Anaheim' || datum.city ==  'Santa Ana' || datum.city ==  'St. Louis' || datum.city ==  'Riverside'"
+
+      }, {
+        "filter": {
+          "param": "click"
+        }
+      }],
+      "width": 1500,
+      "height": 500,
+      "layer": [{
+        "mark": {
+          "type": "circle",
+          "size":100
+        },
+        "encoding": {
+          "color": {
+            "condition": {
+              "param": "click",
+              "field": "pizza_type",
+              "scale": {
+                "domain": ["margherita", "hawaiian", "pepperoni", "meat", "veggie", "cheese", "buffalo", "bbq chicken"],
+                "range": ["#f9d5e5", "#eeac99", "#996377", "#c83349", "#5b9aa0", "#d6d4e0", "#b8a9c9", "#622569"]
+              }
+            },
+            "value": "lightgray"
+          }
+        }
+      }]
+    },
+
+    {
+      "encoding": {
+        "color": {
+          "condition": {
+            "param": "click",
+            "field": "pizza_type",
+            "scale": {
+              "domain": ["margherita", "hawaiian", "pepperoni", "meat", "veggie", "cheese", "buffalo", "bbq chicken"],
+              "range": ["#f9d5e5", "#eeac99", "#996377", "#c83349", "#5b9aa0", "#d6d4e0", "#b8a9c9", "#622569"]
+            }
+          },
+          "value": "lightgray"
+        },
+        "x": {
+          "aggregate": "mean",
+          "field": "price",
+          "type": "quantitative",
+          "title": "Average Price"
+        },
+        "y": {
+          "title": "Pizza Types",
+          "field": "pizza_type"
+        },
+        "tooltip": [
+          {"field": "pizza_type", "type": "nominal", "title": "Pizza Type"},
+          {"aggregate": "mean","field": "price", "type": "nominal", "title": "Average Price"}
+        ]
+      },
+      "width": 1500,
+      "mark": "bar",
+      "params": [{
+        "name": "click",
+        "select": {
+          "type": "point",
+          "encodings": ["color"]
+        }
+      }],
+      "transform": [{
+        "filter": "datum.pizza_type != ''"
+      }]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+  <div class="w3-content" style="max-width:3000px;background-color: #dbe4e2;">
+    <div class="mySlides w3-display-container w3-center w3-padding-64" style="background-color: #58483A;">
+
+      <h1 class="w3-wide" style="color: aliceblue;">A Statistic on Pizza in United States Based On <a href=https://www.kaggle.com/datafiniti/pizza-restaurants-and-the-pizza-they-sell?select=Datafiniti_Pizza_Restaurants_and_the_Pizza_They_Sell_May19.csv>A Dataset By Datafiniti</a></h1>
+
+    </div>
+    <div class="mySlides w3-display-container w3-center" style=" background-color: #dbe4e2; padding: 20px;">
+
+      <div id="symbol_map"></div>
+    </div>
+
+    <div class="w3-container w3-content w3-padding-64 w3-justify">
+      <div class="w3-col m8"></div>
+        <h1>Surveyed Pizza Shop in United States</h1>
+        <h5>Based on a dataset by Datafiniti, we can observe all the surveyed pizza shops along with the pizzas they
+          offered as a mean to evaluate the variety of pizzas that is available in United States. The map visualisation
+          above shows all the surveyed pizza shops in United States, counted by the state (province) they are located in. The exact
+          location of pizza shops are shown in the map as well along with their restaurant name and address.
+          From the map, we can observe that higher populated states will contribute to a higher density of pizza shops,
+           such as New York, California, Texas, Pennsylvania etc. 
+        </h5>
+        </div>
+      </div>
+
+    <div class="w3-container w3-padding-64 w3-center" style="background-color: aliceblue;">
+      <div id="bar_chart2"></div>
+    </div>
+
+    <div class="w3-container w3-padding-64 w3-justify" style="background-color: aliceblue;">
+      <div class="w3-content">
+      <div class="w3-col m8"></div>
+        <h1>Total Number of Pizza Shops in Each State</h1>
+        <h5>
+          The bar chart above shows the number of pizza shops surveyed in each state, sorted from the highest population density to the lowest population density in the states. 
+          As observed from the visualisation, there's a clear declining trend on the number of pizza shops over the course of decreasing population density
+          among the states, which is a fairly comprehensible and logical outcome.
+        </h5>
+        </div>
+        </div>
+      </div>
+
+    <div class="w3-container w3-auto w3-padding-64">
+      <div class="w3-col m6 w3-padding-large">
+        <div id="bar_chart"></div>
+      </div>
+      <div class="w3-col m6 w3-padding-large w3-justify">
+        <h1>Most Surveyed Pizza Shops in United States</h1>
+        <h5>Not necessarily the ranking for the most franchised pizza shops in United States due to the limited sample size provided by the dataset, but it shows some of the most
+          popular pizza shops available from states to states in United States. Among the pizza shops, Papa John takes the easy lead in this chart, appearing for 70 times in this dataset.
+        </h5>
+      </div>
+    </div>
+
+    <div class="w3-container w3-padding-large w3-center" style="background-color: aliceblue;">
+
+        <div id="box_plot"></div>
+    </div>
+
+    <div class="w3-container w3-padding-64 w3-justify" style="background-color: aliceblue;">
+      <div class="w3-content">
+      <div class="w3-col m8"></div>
+        <h1>The Average Price for Popular Pizza Types in Each City</h1>
+        <h5>BBQ Chicken, Buffalo, Cheese, Hawaiian, Margherita, Meat, Pepperoni, Veggie: these are all the familiar names that will call back to your sweetest recent memories you have with a pizza.
+          However, they do come with different prices among different states. The visualisation above shows the average prices of each popular pizza type in different state, sorted by from highest population density to lowest, along with the average 
+          prices for each pizza types in general (United States). According to the charts, Meats Pizza has the highest average price among the popular pizza, while cheese pizza has the lowest average
+          price among them. 
+        </h5>
+        </div>
+        </div>
+      </div>
+
+
+
+
+
+    <script type="text/javascript">
+      var spec1 = "/js/symbol_map.vg.json";
+      var spec2 = "/js/pizza_prize_per_state.vg.json";
+      var spec3 = "/js/top_pizza_shop.vg.json";
+      var spec4 = "/js/top_pizza_state_and_population.vg.json";
+
+      vegaEmbed('#symbol_map', spec1).then(function (result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+
+      vegaEmbed('#box_plot', spec2).then(function (result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+
+      vegaEmbed('#bar_chart', spec3).then(function (result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+
+      vegaEmbed('#bar_chart2', spec4).then(function (result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+    </script>
+
+  </div>
+
+
+</body>
+
+</html>
