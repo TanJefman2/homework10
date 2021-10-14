@@ -7,7 +7,7 @@
     "layer": [
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/TanJefman2/3179-homework-w9/main/homework%209/js/states-10m.topojson",
+          "url": "https://raw.githubusercontent.com/TanJefman2/TanJefman2.github.io/main/Assignment%202/js/states-10m.topojson",
           "format": {"type": "topojson", "feature": "states"}
         },
         "transform": [
@@ -15,7 +15,7 @@
           "lookup": "properties.name",
           "from": {
             "data": {
-              "url": "../data/pizza_count_by_state.csv"
+              "url": "https://raw.githubusercontent.com/TanJefman2/TanJefman2.github.io/main/Assignment%202/data/pizza_count_by_state.csv"
             },
             "key": "province",
             "fields": ["restaurant_count"]
@@ -43,7 +43,7 @@
       
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/TanJefman2/3179-homework-w9/main/homework%209/data/Datafiniti_Pizza_Restaurants_and_the_Pizza_They_Sell_May19.csv"
+          "url": "https://raw.githubusercontent.com/TanJefman2/TanJefman2.github.io/main/Assignment%202/data/Datafiniti_Pizza_Restaurants_and_the_Pizza_They_Sell_May19.csv"
         },
         
       "transform": [{
